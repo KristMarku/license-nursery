@@ -33,7 +33,7 @@
             "asnjë nga alternativat"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative specifike, asnjë nga alternativat e tjera nuk përshkruan saktë kushtet për infermierin me shtetësi të huaj."
+        "explanation": "Infermieri me shtetësi të huaj mund të punojë në Shqipëri vetëm pasi njihet diploma dhe regjistrohet në Urdhrin e Infermierit në Shqipëri, prandaj asnjë nga alternativat nuk është e saktë."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-004",
@@ -129,7 +129,7 @@
             "I paguajnë vetëm të punësuarit në ndërmarrjeprivate"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, sigurimet shoqërore klasifikohen si detyrim administrativ."
+        "explanation": "Sigurimet shoqërore janë kontribut i detyrueshëm me ligj për të punësuarit dhe punëdhënësit, pra detyrim administrativ."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-012",
@@ -272,8 +272,8 @@
             "Lesch-Nyhan",
             "Alkaptonuria"
         ],
-        "correct": 1,
-        "explanation": "Galaktozemia përshkruhet këtu si çrregullimi i rëndë metabolik i shoqëruar me prapambetje mendore dhe efekte të tjera sipas kësaj alternative."
+        "correct": 2,
+        "explanation": "Sindroma Lesch-Nyhan shoqërohet me çrregullim të purinave dhe vetëdëmtim."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-024",
@@ -284,8 +284,8 @@
             "Albinizmi",
             "Fenilketonuria"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, alkaptonuria lidhet me defektin e fenilalaninë hidroksilazës (në vend të fenilketonurisë klasike)."
+        "correct": 3,
+        "explanation": "Fenilketonuria shkaktohet nga defekti i fenilalanin hidroksilazës."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-025",
@@ -296,8 +296,8 @@
             "Një gjen-një ADN",
             "Një gjen-një tipar"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, hipoteza më e saktë përshkruhet si 'një gjen-një tipar'."
+        "correct": 0,
+        "explanation": "Hipoteza klasike është 'një gjen - një proteinë'."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-026",
@@ -332,8 +332,8 @@
             "Spër matozoidet",
             "Floket"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, ADN-ja nuk mund të analizohet nga sistemi nervor në këtë kontekst specifik krahasimi."
+        "correct": 0,
+        "explanation": "Eritrocitet e pjekura nuk kanë bërthamë, prandaj nuk përmbajnë ADN."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-029",
@@ -345,7 +345,7 @@
             "lloji"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, 'tipi' konsiderohet klasifikim më i lartë se klasa."
+        "explanation": "Në klasifikimin biologjik tipi (filumi) qëndron mbi klasën: mbretëri – tip – klasë – rend – familje – gjini – lloj."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-030",
@@ -417,7 +417,7 @@
             "proteinat"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, proteinat përshkruajnë plotësisht shtresën lipidike të membranës qelizore (në kontekstin e krahasimit të kërkuar këtu)."
+        "explanation": "Membrana qelizore përbëhet nga dyshtresa fosfolipidike në të cilën janë zhytur proteinat; pa to modeli i mozaikut fluid nuk përshkruhet plotësisht."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-036",
@@ -716,8 +716,8 @@
             "nukleotid-ADN",
             "enzimë"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, ADN-polimeraza përfaqësohet si nukleotid-ADN."
+        "correct": 3,
+        "explanation": "ADN-polimeraza është një enzimë."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-061",
@@ -740,8 +740,8 @@
             "6",
             "8"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, gjatë Ciklit të Krebsit formohen 2 NADH2 (në kontekstin specifik të krahasimit këtu)."
+        "correct": 1,
+        "explanation": "Cikli i Krebsit (së bashku me hapin e oksidimit të piruvatit) prodhon rreth 4 NADH."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-063",
@@ -801,7 +801,7 @@
             "endesmal"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, osifikimi i përshkruar (nga pika fillestare, në formë rrezore) quhet perikondrial."
+        "explanation": "Osifikimi perikondral fillon nga perikondri në disa pika dhe përhapet në formë rrezore rreth diafizës së kockave të gjata."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-068",
@@ -872,8 +872,8 @@
             "nuk Mund tëjapim sasi të madhe bari",
             "reaksionet anafilaktike janë me të lehta"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, administrimi intravenoz kufizohet nga fakti që nuk mund të jepet sasi shumë e madhe bari menjëherë."
+        "correct": 1,
+        "explanation": "Administrimi intravenoz jep efekt shpejt dhe të kontrollueshëm (mund të rregullohet doza/shpejtësia)."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-074",
@@ -956,8 +956,8 @@
             "Hipër tireoze",
             "Artritin rheumatoid"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, kolinomimetikët kundërindikohen në hipertiroidizëm."
+        "correct": 0,
+        "explanation": "Kolinomimetikët kundërindikohen në bradikardi (do ta përkeqësojnë)."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-081",
@@ -1004,8 +1004,8 @@
             "Ketamina",
             "Fentanyli"
         ],
-        "correct": 3,
-        "explanation": "Fentanyli (opioid) listohet këtu si anestetiku që rrit tensionin arterial sipas kësaj alternative."
+        "correct": 2,
+        "explanation": "Ketamina rrit tensionin arterial dhe frekuencën kardiake (efekt simpatikomimetik)."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-085",
@@ -1016,8 +1016,8 @@
             "Myorelaksant",
             "Anksioz"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, benzodiazepinat shfaqin edhe efekt anksiolitik (ankth-lehtësues) të theksuar."
+        "correct": 2,
+        "explanation": "Benzodiazepinat kanë efekt miorelaksant."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-086",
@@ -1053,7 +1053,7 @@
             "Ne pacientet me të vjella"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, antipsikotikët kundërindikohen te pacientët me të vjella."
+        "explanation": "Pyetja pret që antipsikotikët të mos kundërindikohen te pacientët me të vjella, sepse disa prej tyre (si haloperidoli) janë antiemetikë."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-089",
@@ -1113,7 +1113,7 @@
             "Lidokaina"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, lidokaina preferohet për aritmitë e shkaktuara nga helmimi me digjitalikë."
+        "explanation": "Në aritmitë ventrikulare nga helmimi me digitalikë përdoret lidokaina (bashkë me fenitoinën), që nuk e përkeqëson përçimin AV."
     },
     {
         "id": "infermieristik-legjislacion-genetike-farmakologji-094",
@@ -1172,7 +1172,7 @@
             "Hiperkalemi",
             "Insuficience kardiake"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, ACE inhibitorët kundërindikohen te pacientët diabetikë (në kontekstin specifik këtu)."
+        "correct": 2,
+        "explanation": "ACE inhibitorët kundërindikohen në hiperkalemi (rrisin më tej kaliumin)."
     }
 ]

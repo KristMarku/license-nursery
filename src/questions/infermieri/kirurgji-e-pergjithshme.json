@@ -188,8 +188,8 @@
             "Hipoproteinemia",
             "Prania e trupave të huaj në plagë"
         ],
-        "correct": 0,
-        "explanation": "Dehidrimi i të sëmurit është faktor i përgjithshëm (sistemik) që vonon shërimin, ndryshe nga prania e trupave të huaj që është faktor lokal."
+        "correct": 3,
+        "explanation": "Prania e trupave të huaj është faktor lokal, jo i përgjithshëm."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-017",
@@ -224,8 +224,8 @@
             "Biohumerale",
             "Imunologjike"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, niveli i albuminës lidhet me vlerësimin imunologjik të gjendjes ushqyese."
+        "correct": 2,
+        "explanation": "Niveli i albuminës është parametër biohumoral i vlerësimit nutricional."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-020",
@@ -261,7 +261,7 @@
             "Hernie"
         ],
         "correct": 0,
-        "explanation": "Tërheqja/mbledhja e gojëzës konsiderohet patologji e vonë e stomave sipas kësaj alternative, ndërsa fistula mund të klasifikohet ndryshe këtu."
+        "explanation": "Tërheqja (retraksioni) e gojëzës së stomës shfaqet herët pas operacionit; granuloma, fistula dhe hernia parastomale janë ndërlikime të vona."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-023",
@@ -392,8 +392,8 @@
             "Antiseptikën mekanike",
             "Antiseptikën biologjike"
         ],
-        "correct": 0,
-        "explanation": "Përdorimi i garzave (pastrim mekanik-fizik i plagës) klasifikohet këtu si antiseptikë fizike."
+        "correct": 2,
+        "explanation": "Garzat bëjnë pjesë në antiseptikën mekanike."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-034",
@@ -465,7 +465,7 @@
             "Asnjëra"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative specifike, seksi konsiderohet parimi kryesor i ndarjes në dhoma të të sëmurëve kirurgjikalë."
+        "explanation": "Në pavionet kirurgjikale të sëmurët ndahen në dhoma në radhë të parë sipas seksit, për të ruajtur privatësinë dhe dinjitetin e tyre."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-040",
@@ -489,7 +489,7 @@
             "Nxehtesia"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, nxehtësia (jo ajri nën presion vetë) theksohet si agjenti kryesor sterilizues në autoklavë."
+        "explanation": "Në autoklavë agjenti sterilizues është nxehtësia e avullit nën presion (121–134°C), që denatyron proteinat e mikroorganizmave dhe sporeve."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-042",
@@ -536,8 +536,8 @@
             "Furunkuli",
             "Limfangoidi"
         ],
-        "correct": 3,
-        "explanation": "Limfangoidi (jo limfadeniti) përshkruhet këtu si inflamacion i enëve/gjëndrave limfatike sipas kësaj alternative specifike."
+        "correct": 0,
+        "explanation": "Limfadeniti është inflamacion i gjëndrave limfatike."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-046",
@@ -573,7 +573,7 @@
             "për të mbajtur lamën"
         ],
         "correct": 2,
-        "explanation": "Portagia përdoret në këtë kontekst edhe për të mbajtur agën (gazën) gjatë procedurave kirurgjikale."
+        "explanation": "Portagia (mbajtësja e gjilpërës) është instrumenti që mban gjilpërën gjatë suturimit."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-049",
@@ -704,8 +704,8 @@
             "Limfangoid",
             "Furunkul"
         ],
-        "correct": 1,
-        "explanation": "Infeksioni i rrugëve limfatike quhet limfadenit sipas kësaj alternative specifike."
+        "correct": 2,
+        "explanation": "Limfangoidi është infeksion i rrugëve limfatike."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-060",
@@ -764,8 +764,8 @@
             "Infeksion, sepsis",
             "Krize tirotoksike"
         ],
-        "correct": 1,
-        "explanation": "Tetania (hipokalcemia nga dëmtimi/heqja e paratiroideve) konsiderohet komplikacion i mundshëm i tiroidektomisë, ndryshe nga kriza tirotoksike që nuk lidhet drejtpërdrejt me vetë procedurën."
+        "correct": 3,
+        "explanation": "Kriza tirotoksike nuk konsiderohet komplikacion direkt i vetë kirurgjisë."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-065",
@@ -920,8 +920,8 @@
             "Demtim i rrugeve biliare",
             "Gure ne rruget biliare"
         ],
-        "correct": 0,
-        "explanation": "Fistula biliare konsiderohet ndërlikim i mundshëm pas kolecistektomisë, sipas kësaj alternative."
+        "correct": 3,
+        "explanation": "Gurët retenues nuk konsiderohen komplikacion i shkaktuar nga operacioni vetë."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-078",
@@ -957,7 +957,7 @@
             "Ileusi"
         ],
         "correct": 3,
-        "explanation": "Ileusi konsiderohet ndërlikim i mundshëm postoperator i hernies inguinale sipas kësaj alternative."
+        "explanation": "Pas operacionit të hernies inguinale ndërlikimet tipike janë hematoma, atrofia testikulare dhe përforacioni i zorrëve; ileusi nuk konsiderohet ndërlikim tipik i saj."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-081",
@@ -992,8 +992,8 @@
             "Tromboza venoze",
             "Dizuria"
         ],
-        "correct": 1,
-        "explanation": "Ikteri nuk konsiderohet shenjë tipike e neoplazive retroperitoneale sipas kësaj alternative."
+        "correct": 3,
+        "explanation": "Dizuria s'është shenjë tipike e neoplazive retroperitoneale."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-084",
@@ -1029,7 +1029,7 @@
             "Retensioni urinar"
         ],
         "correct": 3,
-        "explanation": "Retensioni urinar nuk konsiderohet komplikacion tipik i cistektomisë sipas kësaj alternative specifike."
+        "explanation": "Pas cistektomisë urina devijohet (urostomi, neovezikë), prandaj retensioni urinar nuk është ndërlikim i saj; hemoragjia, tromboza venoze dhe laparocela janë ndërlikime të mundshme."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-087",
@@ -1040,8 +1040,8 @@
             "Inkontinenca",
             "Anemia"
         ],
-        "correct": 2,
-        "explanation": "Inkontinenca urinare nuk konsiderohet komplikacion tipik i prostatektomisë sipas kësaj alternative (pavarësisht se klinikisht ndodh shpesh, sipas grupit të alternativave këtu është përjashtimi i pritur)."
+        "correct": 3,
+        "explanation": "Anemia s'konsiderohet komplikacion specifik i prostatektomisë."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-088",
@@ -1100,8 +1100,8 @@
             "Shtyrja nga valvulat e venave",
             "Aspiracioni kardio torakal"
         ],
-        "correct": 1,
-        "explanation": "Kontraksionet e muskujve të këmbës (pompa muskulare) janë faktori që NUK shtyn gjakun në venat e këmbës sipas kësaj alternative (pra faktorët e tjerë renditen si shtytës)."
+        "correct": 0,
+        "explanation": "Kthimi venoz mbështetet kryesisht te pompa muskulare, valvulat dhe aspirimi torakal, jo te presioni arterial i tejkaluar."
     },
     {
         "id": "infermieristik-kirurgji-pergjithshme-093",

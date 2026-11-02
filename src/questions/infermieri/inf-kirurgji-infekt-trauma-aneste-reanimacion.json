@@ -9,7 +9,7 @@
             "pas një traume"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, hiperemia aktive lidhet me ngjyrën e lëkurës pas djegies."
+        "explanation": "Hiperemia aktive është skuqja e lëkurës nga shtimi i qarkullimit arterial, siç ndodh pas djegies së lehtë."
     },
     {
         "id": "infermieristik-kirurgji-002",
@@ -33,7 +33,7 @@
             "ulja e temperaturës trupore nga të ftohtit"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, hipotermia urbane përkufizohet si ekspozim ekstrem ndaj të ftohtit në mjedise urbane."
+        "explanation": "Hipotermia urbane është ulja e temperaturës nga ekspozimi i zgjatur ndaj të ftohtit në mjedis urban, zakonisht te të pastrehët, të moshuarit apo personat nën efektin e alkoolit."
     },
     {
         "id": "infermieristik-kirurgji-004",
@@ -152,8 +152,8 @@
             "vezhgues",
             "qarkullues"
         ],
-        "correct": 1,
-        "explanation": "Mjeku reanimator (anestezist) bën pjesë në grupin josteril të sallës operatore sipas kësaj alternative."
+        "correct": 0,
+        "explanation": "Mjeku reanimator (anestezist) bën pjesë në grupin steril të sallës operatore."
     },
     {
         "id": "infermieristik-kirurgji-014",
@@ -165,7 +165,7 @@
             "mjeku anestezist"
         ],
         "correct": 1,
-        "explanation": "Numërimi i instrumenteve kryhet nga infermieria instrumentare sipas kësaj alternative specifike."
+        "explanation": "Instrumentet numërohen para dhe pas operacionit nga infermierja instrumentare, e cila i përgatit dhe i trajton ato në fushën sterile, bashkë me infermieren qarkulluese."
     },
     {
         "id": "infermieristik-kirurgji-015",
@@ -200,8 +200,8 @@
             "Përdormin e dorezave sterile gjatë mjekimit të plagës",
             "Larjen e duarve para, pas servirjes së ushqimit dhe pas zbrazjes së uturakut"
         ],
-        "correct": 2,
-        "explanation": "Përdorimi i dorezave sterile gjatë mjekimit të plagës klasifikohet këtu si pjesë e asepsisë mjekësore."
+        "correct": 3,
+        "explanation": "Asepsia mjekësore përfshin larjen e duarve para/pas servirjes së ushqimit dhe pas zbrazjes së uturakut."
     },
     {
         "id": "infermieristik-kirurgji-018",
@@ -308,8 +308,8 @@
             "Teknika Kontrolli",
             "Teknika Aseptike"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, teknikat dezinfektuese janë ato që ulin/pengojnë proceset infektive postoperatore."
+        "correct": 3,
+        "explanation": "Teknikat aseptike ulin dhe pengojnë proceset infektive post-kirurgjikale."
     },
     {
         "id": "infermieristik-kirurgji-027",
@@ -380,8 +380,8 @@
             "vendosja e kateterit supra pubik",
             "asnjëra"
         ],
-        "correct": 0,
-        "explanation": "Nëse kanë kaluar mbi 12-18 orë pa urinim, ndërhyrja primare sipas kësaj alternative është vendosja e kateterit urinar."
+        "correct": 1,
+        "explanation": "Ndërhyrja fillestare është nxitja jo-invazive e urinimit (p.sh. bursat e ngrohta), përpara kateterizimit."
     },
     {
         "id": "infermieristik-kirurgji-033",
@@ -429,7 +429,7 @@
             "Gjinekologjik"
         ],
         "correct": 1,
-        "explanation": "Pas operacioneve gastrike, pozicioni i këshilluar sipas kësaj alternative është semi-Fowler."
+        "explanation": "Pas operacioneve gastrike pacienti mbahet në Semi-Fowler, që lehtëson frymëmarrjen, ul tensionin në plagë dhe pengon refluksin."
     },
     {
         "id": "infermieristik-kirurgji-037",
@@ -693,7 +693,7 @@
             "mbi 50 vjec"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, mamografia vjetore këshillohet për gratë mbi 50 vjeç."
+        "explanation": "Mamografia vjetore rekomandohet kryesisht për gratë mbi 50 vjeç, ku rreziku për kancer të gjirit është më i lartë."
     },
     {
         "id": "infermieristik-kirurgji-059",
@@ -764,8 +764,8 @@
             "Ikteri paraqitet në stadin e parë të sëmundjes",
             "Prognoza nuk është shumë e varfër"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, hemoragjia në kancerin gastrik ndodh rrallë si manifestim i kësaj diagnoze."
+        "correct": 0,
+        "explanation": "Hemoragjia mund të jetë e theksuar në kancerin gastrik të avancuar."
     },
     {
         "id": "infermieristik-kirurgji-065",
@@ -788,8 +788,8 @@
             "Parandalimin e komplikacioneve",
             "Asnjëra"
         ],
-        "correct": 1,
-        "explanation": "Edukimi mbi hidratimin optimal te urolitiaza ka si qëllim kryesor rehidrimin e pacientit sipas kësaj alternative."
+        "correct": 0,
+        "explanation": "Hidratimi optimal synon parandalimin e recidivave të gurëve urinarë."
     },
     {
         "id": "infermieristik-kirurgji-067",
@@ -800,8 +800,8 @@
             "Nivele të larta të AFP (alfafetoproteinës)",
             "Të gjitha"
         ],
-        "correct": 3,
-        "explanation": "Në karcinomën hepatoqelizore, testet diagnostike shpesh zbulojnë të gjitha ndryshimet e listuara (leukocite, trombocite, AFP të rritura)."
+        "correct": 2,
+        "explanation": "AFP (alfafetoproteina) e ngritur është tregues tipik i karcinomës hepatoqelizore."
     },
     {
         "id": "infermieristik-kirurgji-068",
@@ -969,7 +969,7 @@
             "Trajtim jo kirugjikal në rastin e perforimit intestinal"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, menaxhimi kirurgjikal i obstruksionit të zorrës së trashë indikohet vetëm kur bllokimi është i plotë."
+        "explanation": "Obstruksioni i zorrës së trashë trajtohet fillimisht në mënyrë konservative; ndërhyrja kirurgjikale bëhet kur bllokimi është i plotë."
     },
     {
         "id": "infermieristik-kirurgji-082",
@@ -1029,7 +1029,7 @@
             "hypotension"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, stresi (jo hipotensioni) është përfshirë ndër shenjat fillestare të shokut septik."
+        "explanation": "Shoku septik shfaqet me ethe, temperaturë të lartë dhe hipotension; stresi nuk është shenjë klinike e tij."
     },
     {
         "id": "infermieristik-kirurgji-087",
@@ -1040,8 +1040,8 @@
             "infeksion kirurgjikal i gjendrave të djersës",
             "infeksion kirurgjik i nyjeve limfatike"
         ],
-        "correct": 0,
-        "explanation": "Karbunkuli është inflamacion akut nekrotik purulent i lëkurës."
+        "correct": 1,
+        "explanation": "Karbunkuli është infeksion akut purulent i disa folikujve flokësh ngjitur, me formim të disa vatrave me qelb."
     },
     {
         "id": "infermieristik-kirurgji-088",
@@ -1245,7 +1245,7 @@
             "shigeloza"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative specifike, amebiaza është përshkruar si 'sëmundja e papastërtisë'."
+        "explanation": "Amebiaza quhet \"sëmundja e duarve të pista\", sepse transmetohet me rrugë fekalo-orale përmes duarve, ushqimit dhe ujit të kontaminuar."
     },
     {
         "id": "infermieristik-kirurgji-105",
@@ -1352,8 +1352,8 @@
             "6 javë",
             "8 javë"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, longeta e allçisë në frakturën e parakrahut mbahet rreth 3 javë."
+        "correct": 2,
+        "explanation": "Longeta e allçisë në frakturën e parakrahut mbahet zakonisht rreth 6 javë."
     },
     {
         "id": "infermieristik-kirurgji-114",
@@ -1364,8 +1364,8 @@
             "rreth 24-48 orë",
             "rreth 48-72 orë"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, koha e tharjes së allçisë konsiderohet rreth 12-24 orë."
+        "correct": 2,
+        "explanation": "Allçia thahet plotësisht rreth 24-48 orë."
     },
     {
         "id": "infermieristik-kirurgji-115",
@@ -1377,7 +1377,7 @@
             "intermitent"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, traksioni pelvik zbatohet në mënyrë intermitente (jo të vazhdueshme)."
+        "explanation": "Traksioni pelvik aplikohet në mënyrë intermitente, me pushime, që pacienti të lëvizë dhe të mos dëmtohet lëkura."
     },
     {
         "id": "infermieristik-kirurgji-116",
@@ -1448,8 +1448,8 @@
             "6 javë",
             "8 javë"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, fiksatorët ekstern në ekstremitetet e sipërme hiqen pas rreth 6 javësh."
+        "correct": 1,
+        "explanation": "Fiksatorët ekstern në ekstremitetet e sipërme hiqen zakonisht pas rreth 4 javësh."
     },
     {
         "id": "infermieristik-kirurgji-122",
@@ -1569,7 +1569,7 @@
             "Përfshijnë edhe plazmën e frekët të ngrirë"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, likidet intravenoze zëvendësuese konsiderohen kryesisht trajtues të hipovolemisë."
+        "explanation": "Likidet intravenoze zëvendësuese (kristaloidë dhe koloidë) përdoren kryesisht për trajtimin e hipovolemisë."
     },
     {
         "id": "infermieristik-kirurgji-132",
@@ -1580,8 +1580,8 @@
             "Hollimi i substancës korrozive",
             "Sigurimi i rrugëve respiratore"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, shpëlarja me likide menjëherë pas ingjestionit të substancave korrozive konsiderohet e kundërindikuar."
+        "correct": 1,
+        "explanation": "Lavazhi gastrik është i kundërindikuar pas ingjestionit të substancave korrozive."
     },
     {
         "id": "infermieristik-kirurgji-133",
@@ -1628,8 +1628,8 @@
             "lloji i anestezisë",
             "lloji i ndërhyrjes kirurgjikale"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, lloji i anestezisë nuk përcakton shkallën e ndryshimeve në organizmin e të operuarit."
+        "correct": 1,
+        "explanation": "Gjendja pas operacionit është pasojë, jo faktor paracaktues i shkallës së ndryshimeve."
     },
     {
         "id": "infermieristik-kirurgji-137",
@@ -1748,8 +1748,8 @@
             "infeksionet e lëkurës",
             "pamjaftueshmëria arteriale"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, diabeti listohet ndër shkaqet e ulçerave venoze të këmbës."
+        "correct": 1,
+        "explanation": "Fistulat artero-venoze mund të shkaktojnë hipertension venoz dhe ulçera venoze."
     },
     {
         "id": "infermieristik-kirurgji-147",
@@ -1797,7 +1797,7 @@
             "Evakuativ"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, kateterët ureteralë kanë qëllim kryesisht evakuativ (drenim)."
+        "explanation": "Kateterët ureteralë kanë qëllim evakuativ: sigurojnë drenimin e urinës nga veshka kur ureteri është i bllokuar."
     },
     {
         "id": "infermieristik-kirurgji-151",

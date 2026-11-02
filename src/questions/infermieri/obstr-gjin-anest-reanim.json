@@ -357,7 +357,7 @@
             "Nga sinteza e progesteronit në corpus luteum"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, ardhja e ciklit menstrual lidhet me kohëzgjatjen e ndryshueshme të fazës folikulare."
+        "explanation": "Gjatësia e ciklit menstrual varet nga kohëzgjatja e ndryshueshme e fazës folikulare, ndërsa faza luteale është pothuajse konstante (14 ditë)."
     },
     {
         "id": "infermieristik-obstetri-anestezi-031",
@@ -368,8 +368,8 @@
             "Fillimi i stimi te sekretimit te LH",
             "Shtimi preovulator i progesteronit"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, shtimi i sekretimit të FSH konsiderohet indikatori kryesor që pararend ovulacionin."
+        "correct": 2,
+        "explanation": "Fillimi i shtimit të sekretimit të LH pararend ovulacionin (piku LH)."
     },
     {
         "id": "infermieristik-obstetri-anestezi-032",
@@ -381,7 +381,7 @@
             "Rritja vaskulare e endometrit"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, kohëzgjatja e ndryshueshme është karakteristika që NUK i përket fazës folikulare (pra tipike për fazën tjetër)."
+        "explanation": "Faza folikulare ka kohëzgjatje të ndryshueshme, ndaj kjo nuk është tipar i qëndrueshëm i saj; tipike janë rritja e folikujve dhe proliferimi vaskular i endometrit."
     },
     {
         "id": "infermieristik-obstetri-anestezi-033",
@@ -404,8 +404,8 @@
             "Methotroxate",
             "Të gjitha"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, metotreksati veçohet si trajtimi kryesor specifik për GEU."
+        "correct": 3,
+        "explanation": "GEU mund të trajtohet me laparoskopi, laparatomi, ose metotreksat, sipas rastit."
     },
     {
         "id": "infermieristik-obstetri-anestezi-035",
@@ -416,8 +416,8 @@
             "Aderencat pelvike",
             "Dispareunia"
         ],
-        "correct": 1,
-        "explanation": "Barra ektopike listohet këtu ndër pasojat e mundshme të sëmundjes inflamatore pelvike sipas kësaj alternative."
+        "correct": 0,
+        "explanation": "Endometrioza nuk është pasojë e SIP; ka etiologji tjetër."
     },
     {
         "id": "infermieristik-obstetri-anestezi-036",
@@ -429,7 +429,7 @@
             "Përdorimi i DIU"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, ndërprerja e vullnetshme e barrës shoqërohet me rrezik të shtuar për SIP."
+        "explanation": "Ndërprerja e vullnetshme e barrës në kushte të sigurta nuk e rrit ndjeshëm rrezikun për SIP krahasuar me fillimin e hershëm seksual dhe DIU-në."
     },
     {
         "id": "infermieristik-obstetri-anestezi-037",
@@ -465,7 +465,7 @@
             "Deficiti imunologjik"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, deficiti imunologjik nuk shërben si teori e pranuar për origjinën e endometriozës."
+        "explanation": "Teoritë e endometriozës janë metaplazia celomike, menstruacioni retrograd dhe hiperplazia endometriale; deficiti imunologjik konsiderohet faktor favorizues, jo teori shpjeguese."
     },
     {
         "id": "infermieristik-obstetri-anestezi-040",
@@ -500,8 +500,8 @@
             "Çregullimet e koagulimit",
             "Endometrioza"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, endometrioza listohet ndër patologjitë më të lidhura me metroragjitë disfunksionale."
+        "correct": 1,
+        "explanation": "Anovulacioni është shkaku më i shpeshtë i metroragjive disfunksionale."
     },
     {
         "id": "infermieristik-obstetri-anestezi-043",
@@ -524,8 +524,8 @@
             "Polimenorea",
             "Oligomenorea"
         ],
-        "correct": 0,
-        "explanation": "Kombinimi i një sasie normale gjaku (40ml) me interval të zgjatur (35 ditë) përkufizohet këtu si menometroragji sipas kësaj alternative."
+        "correct": 3,
+        "explanation": "Cikli i zgjatur (çdo 35 ditë) me sasi normale gjaku klasifikohet si oligomenorre."
     },
     {
         "id": "infermieristik-obstetri-anestezi-045",
@@ -608,8 +608,8 @@
             "Laparaskopia",
             "Biopsia e endometrit"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, biopsia e endometrit është metoda e duhur për vlerësimin e malformacioneve të kavitetit uterin."
+        "correct": 1,
+        "explanation": "Histerosalpingografia vlerëson edhe malformacionet e kavitetit uterin."
     },
     {
         "id": "infermieristik-obstetri-anestezi-052",
@@ -621,7 +621,7 @@
             "Menstruacioni"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, vetë barra konsiderohet treguesi që NUK është (indirekt) prova standarde e ovulacionit të kaluar (pasi mund të vijë nga cikle të ndryshme)."
+        "explanation": "Barra tregon që ovulacioni ka ndodhur. Pyetja pret që ajo të mos konsiderohet tregues klinik i drejtpërdrejtë ovulacioni, si temperatura bazale ose endometri sekretiv."
     },
     {
         "id": "infermieristik-obstetri-anestezi-053",
@@ -668,8 +668,8 @@
             "Prolaktina",
             "Androgjenet"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, niveli i androgjeneve konsiderohet ekzaminimi kryesor për përcaktimin e menopauzës."
+        "correct": 0,
+        "explanation": "FSH i ngritur është treguesi kryesor hormonal i menopauzës."
     },
     {
         "id": "infermieristik-obstetri-anestezi-057",
@@ -753,7 +753,7 @@
             "Humbje në peshë"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, nauzeja listohet ndër disavantazhet kryesore të kontraceptivëve progesteronikë."
+        "explanation": "Kontraceptivët me progesteron mund të japin nauze, ndryshime në humor dhe në peshë, si efekte anësore hormonale."
     },
     {
         "id": "infermieristik-obstetri-anestezi-064",
@@ -860,8 +860,8 @@
             "Trichomonas vaginalis",
             "Gardnerela vaginalis"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, leukorea me erë peshku shkaktohet nga Trichomonas vaginalis."
+        "correct": 3,
+        "explanation": "Vaginoza bakteriale (Gardnerella vaginalis) shkakton leukore me erë karakteristike peshku."
     },
     {
         "id": "infermieristik-obstetri-anestezi-073",
@@ -933,7 +933,7 @@
             "Mungesë e pulsit periferik"
         ],
         "correct": 1,
-        "explanation": "Apnea ose respiracioni me gulçim listohet si shenjë kryesore e arrestit kardiocirkulator sipas kësaj alternative."
+        "explanation": "Arresti kardiocirkulator karakterizohet nga humbja e vetëdijes, mungesa e pulsit në arteriet e mëdha dhe apnea ose frymëmarrja agonale (gulçimi)."
     },
     {
         "id": "infermieristik-obstetri-anestezi-079",
@@ -1064,8 +1064,8 @@
             "Ulet toraksi dhe ngrihet abdomeni",
             "Ulet toraksi dhe ulet dhe abdomeni"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, gjatë respiracionit paradoksal në inspirim ngrihen njëkohësisht toraksi dhe abdomeni."
+        "correct": 0,
+        "explanation": "Në respiracionin paradoksal, gjatë inspirimit toraksi ngrihet ndërsa abdomeni ulet (ose anasjelltas, në kundërshtim me lëvizjen normale sinkrone)."
     },
     {
         "id": "infermieristik-obstetri-anestezi-090",
@@ -1100,8 +1100,8 @@
             "Ul dozën e analgjezikëve për qetësimin e dhimbjes",
             "Rrit tolerancën ndaj dhimbjes sepse sa më gjatë të ketë patur dhimbje aq më i pandjeshëm bëhet ndaj saj"
         ],
-        "correct": 1,
-        "explanation": "Në dhimbjen kronike shenjat vitale zakonisht mbeten të pandryshuara, ndryshe nga dhimbja akute."
+        "correct": 3,
+        "explanation": "Te dhimbja kronike organizmi përshtatet: shenjat vitale normalizohen dhe pacienti zhvillon njëfarë tolerance ndaj dhimbjes së zgjatur."
     },
     {
         "id": "infermieristik-obstetri-anestezi-093",
@@ -1161,7 +1161,7 @@
             "Shoqëron dhënien e adrenalinës, defibrilimin dhe respiracionin artificial në menaxhimin e arrestit kardiak"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, qëllimi kryesor i masazhit kardiak të jashtëm është rikthimi i respiracionit dhe i aktivitetit kardiak."
+        "explanation": "Masazhi i jashtëm kardiak synon të rikthejë qarkullimin dhe aktivitetin kardiak, duke ruajtur perfuzionin e organeve vitale deri në rikthimin e funksioneve."
     },
     {
         "id": "infermieristik-obstetri-anestezi-098",
@@ -1208,8 +1208,8 @@
             "Anamneza dhe ekzaminimit fizik",
             "Vlerësimi dhe terapia"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, hapat e para në pacientin e terapisë intensive janë vlerësimi dhe fillimi i terapisë."
+        "correct": 1,
+        "explanation": "Te pacienti kritik veprohet fillimisht me manovra terapeutike për stabilizimin e funksioneve vitale (ABC); diagnoza dhe anamneza vijnë pasi pacienti stabilizohet."
     },
     {
         "id": "infermieristik-obstetri-anestezi-102",
@@ -1220,8 +1220,8 @@
             "Rruga intraoseale në pacientë adultë",
             "Rruga intrakardiake"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, rruga intrakardiake listohet si alternativë kur nuk mund të vendoset rrugë venoze (megjithëse në praktikën moderne preferohet rruga intraoseale)."
+        "correct": 2,
+        "explanation": "Rruga intraoseale përdoret si alternativë kur nuk mund të vendoset akses venoz, edhe tek adultët."
     },
     {
         "id": "infermieristik-obstetri-anestezi-103",
@@ -1269,7 +1269,7 @@
             "Nëse mbahen temperaturat e duhura mund të ruhet për të paktën një vit, ose më shumë"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, plazma e freskët e ngrirë, në kushte të duhura temperature, mund të ruhet për të paktën një vit ose më shumë."
+        "explanation": "Plazma e freskët e ngrirë ruhet deri në një vit ose më shumë në –25°C ose më ulët, pa humbur faktorët e koagulimit."
     },
     {
         "id": "infermieristik-obstetri-anestezi-107",
@@ -1388,8 +1388,8 @@
             "Matet nëpërmjet pulsoksimetrit",
             "Nuk ndryshon nga presioni venoz i oksigjenit"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, PaO2 matet nëpërmjet pulsoksimetrit (në kontekstin specifik të kësaj pyetjeje)."
+        "correct": 0,
+        "explanation": "PaO2 ndryshon në varësi të presionit pjesor të O2 në ajrin e inspiruar."
     },
     {
         "id": "infermieristik-obstetri-anestezi-117",
@@ -1520,8 +1520,8 @@
             "Ulet përqëndrimi i kaliumit në plazëm",
             "Faktori i VIII i koagulimit është relativisht i stabilizuar"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, gjaku i ruajtur në kushte të duhura e ruan viabilitetin dhe funksionin e eritrociteve."
+        "correct": 1,
+        "explanation": "Gjaku i ruajtur bëhet progresivisht me acid (acidozë)."
     },
     {
         "id": "infermieristik-obstetri-anestezi-128",

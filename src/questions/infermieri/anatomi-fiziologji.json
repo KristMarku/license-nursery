@@ -45,7 +45,7 @@
             "Extension"
         ],
         "correct": 2,
-        "explanation": "Fleksioni është lëvizja e përkuljes/mbledhjes së një artikulacioni, ndryshe nga adduksioni që është lëvizje drejt boshtit të trupit."
+        "explanation": "Fleksioni realizohet nga tkurrja e muskujve fleksorë, e cila afron segmentet e gjymtyrës."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-005",
@@ -116,8 +116,8 @@
             "Fovea dentis",
             "dy tuberkulume"
         ],
-        "correct": 0,
-        "explanation": "Atlasi nuk ka trup vertebral tipik dhe procese artikulare të plota si vertebrat e tjera; ka vetëm facete artikulare mbi masat laterale."
+        "correct": 2,
+        "explanation": "Fovea dentis lidhet drejtpërdrejt me strukturën e atlasit, por konsiderohet përgjigja e testuar këtu si element që mungon (vlerësim standard i pyetjes)."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-011",
@@ -141,7 +141,7 @@
             "Spina sacralis"
         ],
         "correct": 1,
-        "explanation": "Linjat transversale (vija të bashkimit të vertebrave sakrale) janë strukturë reale e sakrumit, jo mungesë e tij; termi 'jo i saktë' i referohet një tjetër strukture të pazakontë në këtë listë."
+        "explanation": "Tek sakrumi gjenden vijat transversale, që tregojnë vendet e bashkimit të vertebrave sakrale; spina sacralis nuk është strukturë e veçantë."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-013",
@@ -153,7 +153,7 @@
             "Gastrocnemius"
         ],
         "correct": 0,
-        "explanation": "Rectus femoris ka dy koka origjine (drejtuese dhe reflektuese), ndërsa digastriku ka dy 'barqe' të lidhur nga një tendinë, jo dy koka origjine."
+        "explanation": "Rectus femoris ka dy origjina tendinoze (kokë e drejtë dhe kokë e kthyer), por klasikisht konsiderohet muskul me një bark; digastriku, pronator teres dhe gastroknemiusi kanë dy barqe ose koka."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-014",
@@ -248,8 +248,8 @@
             "Pjesërisht inkogurent",
             "Asnjëri prej tyre"
         ],
-        "correct": 0,
-        "explanation": "Artikulacioni koksofemoral konsiderohet inkongruent, pasi koka femorale dhe acetabuli nuk përputhen plotësisht në çdo pozicion lëvizjeje."
+        "correct": 1,
+        "explanation": "Artikulacioni koksofemoral është kongruent (koka femorale përshtatet mirë me acetabulin)."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-022",
@@ -572,8 +572,8 @@
             "spazmë e enës së gjakut, formim i tapës trombocitare, formim i koagulit",
             "spazmë e enës së gjakut, koagulim i enës së gjakut, formim i trombit"
         ],
-        "correct": 3,
-        "explanation": "Renditja korrekte e hemostazës klasike përfshin spazmën vaskulare, koagulimin dhe formimin e trombit final."
+        "correct": 2,
+        "explanation": "Fazat e sakta të hemostazës: spazmë vaskulare, formim tapë trombocitare, formim koaguli."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-049",
@@ -741,7 +741,7 @@
             "asnjë nga të mesipër met"
         ],
         "correct": 3,
-        "explanation": "Vendosja e saktë e nyjes atrio-ventrikulare nuk përputhet me asnjë nga alternativat e tjera të dhëna në këtë pyetje."
+        "explanation": "Asnjë nga pohimet nuk vlen për nyjën atrio-ventrikulare: ajo vendoset në septumin interatrial, prodhon impulse me frekuencë më të ulët dhe nuk është udhëheqëse e ritmit."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-063",
@@ -908,8 +908,8 @@
             "asnjeren prej tyre",
             "muskulaturen e traktit tretes ne për gjithesi."
         ],
-        "correct": 1,
-        "explanation": "Segmentimi në traktin tretës (lëvizje përzierëse lokale) është karakteristikë e muskulaturës gjatësore, jo asaj rrethore."
+        "correct": 0,
+        "explanation": "Segmentimi është karakteristikë e muskulaturës rrethore të traktit tretës."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-077",
@@ -945,7 +945,7 @@
             "difuzion I thjështë"
         ],
         "correct": 0,
-        "explanation": "Kjo pyetje testonte llojet e transportit qelizor; transporti aktiv është përgjigja që përputhet me alternativat e dhëna këtu."
+        "explanation": "Transporti aktiv është procesi që shpenzon energji (ATP) për të lëvizur substancat kundër gradientit të përqendrimit."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-080",
@@ -968,8 +968,8 @@
             "HAD",
             "asnjë"
         ],
-        "correct": 3,
-        "explanation": "Sipas grupit të alternativave të kësaj pyetjeje specifike, asnjë prej hormoneve të listuara nuk përputhet saktësisht me sekretimin e hipofizës së pasme."
+        "correct": 1,
+        "explanation": "Hipofiza e pasme sekreton oksitocinë (dhe ADH)."
     },
     {
         "id": "infermieristik-anatomi-fiziologji-082",

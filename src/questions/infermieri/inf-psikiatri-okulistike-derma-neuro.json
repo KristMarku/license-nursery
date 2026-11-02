@@ -9,7 +9,7 @@
             "Faza përfundimtare"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, bashkëbisedimet terapeutike klasifikohen si sociale dhe terapeutike njëkohësisht."
+        "explanation": "Bashkëbisedimet në kujdesin infermieror ndahen në sociale dhe terapeutike; bashkëbisedimi terapeutik kalon më pas nëpër fazat hyrëse, të punës dhe përfundimtare."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-002",
@@ -33,7 +33,7 @@
             "Të marrë përsipër përgjegjësitë"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, aftësia për të respektuar diversitetin veçohet si tregues i infermierit të shëndetit mendor."
+        "explanation": "Kompetenca bazë e infermierit të shëndetit mendor është respektimi i diversitetit: pranimi i pacientit pavarësisht kulturës, besimit, sëmundjes apo sjelljes së tij."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-004",
@@ -81,7 +81,7 @@
             "Respektimi I nivelit kulturor të pacientit"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, respektimi i diversitetit nënkupton përkushtim dhe mundësi të barabarta."
+        "explanation": "Respektimi i diversitetit nënkupton përkushtim ndaj çdo pacienti dhe mundësi të barabarta kujdesi për të gjithë, pa diskriminim."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-008",
@@ -129,7 +129,7 @@
             "Gjykim i dobët"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, gjendjet anksioze shoqërohen me harresë dhe humbje kujtese."
+        "explanation": "Ankthi i fortë ul vëmendjen dhe përqendrimin, prandaj pacienti përjeton harresë dhe vështirësi në kujtesë."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-012",
@@ -141,7 +141,7 @@
             "Trajtim i përgjithshëm"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, menaxhimi i depresionit bëhet nëpërmjet trajtimit të përgjithshëm (jo vetëm medikamentoz)."
+        "explanation": "Depresioni menaxhohet në mënyrë të përgjithshme: medikamente, psikoterapi, mbështetje sociale dhe trajtim i sëmundjeve shoqëruese."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-013",
@@ -153,7 +153,7 @@
             "Arritja e një ndryshimi pozitv"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, 'të sjellë ndryshimin' nënkupton formulimin e një programi të besueshëm."
+        "explanation": "Të sjellësh ndryshimin në shëndetin mendor do të thotë të formulosh një program të besueshëm kujdesi që të çojë drejt përmirësimit të pacientit."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-014",
@@ -165,7 +165,7 @@
             "Provokimit"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, rreziqet nga çrregullimet e humorit vijnë nga gjykimi i dobët."
+        "explanation": "Në çrregullimet e humorit gjykimi i dobët e bën pacientin të marrë vendime të rrezikshme (shpenzime, sjellje impulsive, vetëdëmtim)."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-015",
@@ -177,7 +177,7 @@
             "Mania"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, ulja mëngjezore e humorit NUK klasifikohet si formë e veçantë depresioni në këtë listë."
+        "explanation": "Ulja mëngjesore e humorit është simptomë e depresionit melankolik, jo formë më vete e tij; çrregullimi bipolar, hipomania dhe mania janë forma të çrregullimeve të humorit."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-016",
@@ -188,8 +188,8 @@
             "shoqëron infeksionet bakteriale",
             "është një komplikacion pas shërimit klinik të Herpes Zoster"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, neuralgjia posherpetike përkufizohet si komplikacion pas shërimit klinik të Herpes Zoster."
+        "correct": 2,
+        "explanation": "Neuralgjia posherpetike lidhet me infeksionin viral (Herpes Zoster), jo bakterial."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-017",
@@ -213,7 +213,7 @@
             "ECT"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, trajtimi në çrregullimet e humorit përfshin edhe antipsikotikë (në raste specifike si mania psikotike)."
+        "explanation": "Në episodet maniake dhe psikotike të çrregullimeve të humorit përdoren antipsikotikët, të cilët kontrollojnë shpejt agjitacionin dhe simptomat psikotike."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-019",
@@ -224,8 +224,8 @@
             "Pagjumësi",
             "Suicid"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, pacientët me hipomani mund të paraqesin edhe rrezik suicidal."
+        "correct": 0,
+        "explanation": "Entuziazmi i tepruar është karakteristikë e hipomanisë."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-020",
@@ -296,8 +296,8 @@
             "ekzema endogjene",
             "tinea pedis"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, psoriazis vulgaris shoqërohet me sëmundje të tjera atopike në këtë kontekst krahasimi."
+        "correct": 2,
+        "explanation": "Ekzema endogjene (dermatiti atopik) shoqërohet shpesh me sëmundje të tjera atopike (astmë, rinit alergjik)."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-026",
@@ -332,8 +332,8 @@
             "Faktorët ambjental",
             "Gjenetika"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, faktorët ambientalë theksohen si shkaktari më domethënës i skizofrenisë."
+        "correct": 3,
+        "explanation": "Gjenetika konsiderohet faktori më domethënës në etiologjinë e skizofrenisë."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-029",
@@ -381,7 +381,7 @@
             "xhelozisë"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, deluzioni mbizotërues në psikozën paranoide përshkruhet si ai i përndjekjes."
+        "explanation": "Në psikozën paranoide mbizotëron deluzioni i përndjekjes: bindja se pacienti po ndiqet ose po i bëhet keq."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-033",
@@ -404,8 +404,8 @@
             "mbështetjes sociale",
             "njohurive"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, vlerësimi infermieror parësor në skizofreni i referohet gjendjes së humorit."
+        "correct": 1,
+        "explanation": "Vlerësimi parësor infermieror në skizofreni fokusohet te potenciali për dhunë (siguria)."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-035",
@@ -417,7 +417,7 @@
             "komunikimit verbal"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, ndërhyrja infermierore në skizofreni fillon me përmirësimin e procesit të mendimit."
+        "explanation": "Ndërhyrja infermierore në skizofreni fillon me përmirësimin e procesit të mendimit, duke e orientuar pacientin në realitet."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-036",
@@ -440,8 +440,8 @@
             "Keratitin epithelial",
             "Kataraktën"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, hedhja e kolireve kortikoide kundërindikohet në katarakt."
+        "correct": 2,
+        "explanation": "Kortikoidet lokale kundërindikohen në keratitin epitelial (p.sh. herpetik), pasi mund të përkeqësojnë infeksionin."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-038",
@@ -608,8 +608,8 @@
             "Marrja e kortikoideve",
             "Marrja e indometacinës"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, hipokalcemia NUK shkakton kataraktin (ndryshe nga faktorët e tjerë të listuar)."
+        "correct": 3,
+        "explanation": "Indometacina nuk konsiderohet shkaktar tipik i kataraktit, ndryshe nga diabeti, kortikoidet dhe hipokalcemia."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-052",
@@ -909,7 +909,7 @@
             "Jane simptoma paralajmeruese"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, dëmtimet konjitive te skleroza multiple hasen që në fazën e hershme të sëmundjes."
+        "explanation": "Dëmtimet konjitive në sklerozën multiple mund të shfaqen që në fazat e hershme të sëmundjes (ngadalësim i përpunimit, kujtesë, vëmendje)."
     },
     {
         "id": "infermieristik-psikiatri-derma-neuro-077",

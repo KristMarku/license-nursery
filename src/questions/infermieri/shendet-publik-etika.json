@@ -44,8 +44,8 @@
             "Të dyja",
             "Asnjëra"
         ],
-        "correct": 2,
-        "explanation": "Shëndeti publik fokusohet si te parandalimi ashtu edhe te shërbimet shëndetësore."
+        "correct": 0,
+        "explanation": "Shëndeti publik e ka fokusin te parandalimi i sëmundjeve dhe promovimi i shëndetit në popullatë, jo te trajtimi individual."
     },
     {
         "id": "infermieristik-shendet-publik-etike-005",
@@ -92,8 +92,8 @@
             "Për dorimi i burimeve financiare pa eficince",
             "Asnjëra"
         ],
-        "correct": 1,
-        "explanation": "Aplikimi i parandalimit veçohet si karakteristikë unike e shëndetit publik sipas kësaj alternative."
+        "correct": 0,
+        "explanation": "Shëndeti publik karakterizohet nga aplikimi i njëkohshëm i shumë disiplinave."
     },
     {
         "id": "infermieristik-shendet-publik-etike-009",
@@ -188,8 +188,8 @@
             "Shpër ndarjen e periudhave të inkubacionit",
             "Prevalencën"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, kurba epidemike përfaqëson shpërndarjen e periudhave të inkubacionit (jo vetëm incidencën në kohë)."
+        "correct": 0,
+        "explanation": "Kurba epidemike paraqet ndryshimin e incidencës me kalimin e kohës."
     },
     {
         "id": "infermieristik-shendet-publik-etike-017",
@@ -248,8 +248,8 @@
             "Ekspër imentale",
             "Asnjëra"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, studimet deskriptive klasifikohen si eksperimentale (klasifikim specifik i kërkuar këtu)."
+        "correct": 1,
+        "explanation": "Studimet deskriptive janë vëzhguese, jo eksperimentale."
     },
     {
         "id": "infermieristik-shendet-publik-etike-022",
@@ -296,8 +296,8 @@
             "Organizohet në kromozome",
             "Organizohet në kromatinë"
         ],
-        "correct": 1,
-        "explanation": "ADN-ja shoqërohet nga proteinat histone për të formuar kromatinën."
+        "correct": 2,
+        "explanation": "ADN-ja organizohet në kromozome, struktura që e bartin informacionin gjenetik gjatë ndarjes qelizore."
     },
     {
         "id": "infermieristik-shendet-publik-etike-026",
@@ -333,7 +333,7 @@
             "Angiotensinogjenit"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, aldosteroni NUK sintetizohet në veshkë (por në gjëndrën mbiveshkore); angiotensinogjeni prodhohet nga mëlçia por qarkullon te veshka."
+        "explanation": "Veshka sintetizon reninën dhe eritropoetinën; aldosteroni prodhohet nga korteksi i mbiveshkores, ndërsa angiotensinogjeni nga mëlçia."
     },
     {
         "id": "infermieristik-shendet-publik-etike-029",
@@ -452,8 +452,8 @@
             "Epiteli i tij përbëhet nga dy shtresa",
             "Shtresa muskulore është më e holla"
         ],
-        "correct": 3,
-        "explanation": "Shtresa muskulore (miometri) është shtresa më e trashë e uterusit, jo më e holla."
+        "correct": 2,
+        "explanation": "Pohimi i gabuar është se epiteli i uterusit ka dy shtresa: endometri ka epitel cilindrik njështresor."
     },
     {
         "id": "infermieristik-shendet-publik-etike-039",
@@ -465,7 +465,7 @@
             "Bërthamën eukromatinike"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, fibrocitet karakterizohen nga prania e zgjatimeve të shumta citoplazmatike."
+        "explanation": "Fibrocitet janë qeliza me zgjatime të shumta citoplazmatike të holla që i lidhin me fibrat e indit lidhor."
     },
     {
         "id": "infermieristik-shendet-publik-etike-040",
@@ -513,7 +513,7 @@
             "me bërthamë në qendër të qelizës"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, fijet muskulare skeletike në prerje tërthore kanë pamje të vijëzuar (karakteristikë e theksuar në krahasimin e kërkuar këtu)."
+        "explanation": "Fijet muskulare skeletike kanë pamje të vijëzuar tërthor, për shkak të rregullimit të miofilamenteve të aktinës dhe miozinës."
     },
     {
         "id": "infermieristik-shendet-publik-etike-044",
@@ -585,7 +585,7 @@
             "Antibiotikët"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, bujonet organike NUK nevojiten domosdoshmërisht në çdo terren qelizor (kontekst specifik krahasimi)."
+        "explanation": "Në kulturat qelizore nevojiten kushte aseptike, mjedise ushqyese dhe antibiotikë; bujonet organike përdoren për kulturat bakteriale, jo për ato qelizore."
     },
     {
         "id": "infermieristik-shendet-publik-etike-050",
@@ -596,8 +596,8 @@
             "bazohet në të drejtën e patjetërsueshme për jetën e pacientit",
             "bazohet në ruajtjen e mirëqënies dhe i shërben interesave më të mira të pacientit"
         ],
-        "correct": 3,
-        "explanation": "Vendimi bazohet në ruajtjen e mirëqenies dhe interesave më të mira të pacientit."
+        "correct": 2,
+        "explanation": "Sipas konceptit të shenjtërisë së jetës, ushqyerja artificiale në gjendje vegjetative mbështetet në të drejtën e patjetërsueshme të pacientit për jetën."
     },
     {
         "id": "infermieristik-shendet-publik-etike-051",
@@ -633,7 +633,7 @@
             "nëse nga ky përfiton vetë personi"
         ],
         "correct": 1,
-        "explanation": "Teoritë jo-pasojash (deontologjike) e cilësojnë veprimin të drejtë kur bazohet në ligje/rregulla/detyrë, jo në pasojat e tij."
+        "explanation": "Në teoritë deontologjike (jo të pasojave) veprimi është i drejtë kur bazohet në rregulla, ligje dhe detyrime, pavarësisht pasojave."
     },
     {
         "id": "infermieristik-shendet-publik-etike-054",
@@ -669,7 +669,7 @@
             "shkaktohen nga fjalët, gjestet apo mimika e njeriut të shëndetësisë"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, jatrogjenitë ndodhin më shpesh te personat me ndjeshmëri/predispozicion për sëmundje psikike."
+        "explanation": "Jatrogjenia psikike shkaktohet nga fjalët dhe gjestet e personelit dhe është sugjestionuese. Pyetja e konsideron shpeshtësinë te personat me predispozicion psikik si veçori jo tipike të saj."
     },
     {
         "id": "infermieristik-shendet-publik-etike-057",
@@ -836,8 +836,8 @@
             "bazohet në gjykimin dhe vendimin e mjekut për të mirën e pacientit",
             "bazohet në dialog të hapur midis mjekut dhe të sëmurit duke i treguar pa asnjë ngurim"
         ],
-        "correct": 3,
-        "explanation": "Modeli participativ mbështetet në dialog të hapur mes mjekut dhe pacientit."
+        "correct": 0,
+        "explanation": "Sipas modelit participativ, e vërteta i thuhet pacientit duke marrë parasysh rrethanat dhe gjendjen e tij psikologjike, me takt dhe në dialog."
     },
     {
         "id": "infermieristik-shendet-publik-etike-071",

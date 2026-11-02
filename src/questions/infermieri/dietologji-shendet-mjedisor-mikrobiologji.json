@@ -9,7 +9,7 @@
             "asnjë nga të mësipërmet"
         ],
         "correct": 3,
-        "explanation": "BMI llogaritet si peshë(kg)/gjatësi²(m), një formulë që nuk përkon saktësisht me asnjë nga alternativat e tjera të dhëna (as raporti thjeshtë gjatësi/peshë)."
+        "explanation": "BMI është raporti i peshës (kg) me katrorin e gjatësisë (m²), prandaj asnjë nga alternativat nuk e përshkruan saktë."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-002",
@@ -176,8 +176,8 @@
             "spinaqi",
             "bajamet"
         ],
-        "correct": 3,
-        "explanation": "Bajamet janë ndër burimet më të pasura ushqimore me magnez."
+        "correct": 0,
+        "explanation": "Farat e kungullit janë ndër burimet më të pasura me magnez."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-016",
@@ -201,7 +201,7 @@
             "karkalecat"
         ],
         "correct": 0,
-        "explanation": "Mollët përmbajnë më pak jod krahasuar me alternativat e tjera të listuara në këtë grup specifik."
+        "explanation": "Molla është shumë e varfër me jod; produktet e detit (karkalecat) janë burimi më i pasur."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-018",
@@ -321,7 +321,7 @@
             "diarre"
         ],
         "correct": 0,
-        "explanation": "Marrja e tepërt afatgjatë e karbohidrateve mund të kontribuojë në zhvillimin e diabetit të tipit 2."
+        "explanation": "Marrja e tepërt dhe e zgjatur e karbohidrateve rrit kërkesën për insulinë dhe favorizon diabetin tip 2, sidomos bashkë me mbipeshën."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-028",
@@ -332,8 +332,8 @@
             "karbohidratet",
             "proteinat"
         ],
-        "correct": 2,
-        "explanation": "Karbohidratet japin më shumë kalori/gram sesa alternativat pa proteinat, sipas krahasimit specifik të kërkuar këtu (kontekst mësimor i kësaj pyetjeje)."
+        "correct": 0,
+        "explanation": "Yndyrnat kanë kalorazhin më të lartë për gram (9 kcal/g)."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-029",
@@ -357,7 +357,7 @@
             "varet nga BMI e gruas ne fillim të shtatzanise"
         ],
         "correct": 3,
-        "explanation": "Kalorazhi ditor i nevojshëm në shtatzani përcaktohet individualisht, në varësi të BMI të gruas në fillim të shtatzanisë."
+        "explanation": "Kalorazhi i shtatzanës varet nga BMI e saj në fillim të barrës: gratë nënpeshë kanë nevojë për më shumë kalori, ato me mbipeshë për më pak."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-031",
@@ -417,7 +417,7 @@
             "asnjërës prej tyre"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative specifike, trajtimi afatgjatë me Metforminë nuk shoqërohet me pakësim domethënës të asnjërit prej elementëve të listuar."
+        "explanation": "Metformina afatgjatë ul thithjen e vitaminës B12; ndaj vitaminës D, acidit folik dhe vitaminës E nuk ka efekt të rëndësishëm, prandaj asnjë alternativë nuk qëndron."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-036",
@@ -500,8 +500,8 @@
             "Roli i publikut i papër fillshem",
             "Nje akt dhe jo proces ne vazhdimesi"
         ],
-        "correct": 0,
-        "explanation": "Programet e qyteteve të shëndetshme bazohen në zgjedhje multisektoriale."
+        "correct": 1,
+        "explanation": "Programi \"Qytet i Shëndetshëm\" synon rritjen e pjesëmarrjes së qytetarëve në vendimmarrje për shëndetin dhe mjedisin."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-043",
@@ -560,8 +560,8 @@
             "Është faktor qe Mund tëshkaktoje efektë shendetesor",
             "Asnjëra nga përgjigjet"
         ],
-        "correct": 2,
-        "explanation": "Risku është faktor që mund të shkaktojë efekte shëndetësore."
+        "correct": 1,
+        "explanation": "Risku shfaqet vetëm kur ka ekspozim ndaj një faktori të dëmshëm; pa ekspozim nuk ka rrezik."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-048",
@@ -596,8 +596,8 @@
             "Nuk për doret ne prodhimin e pasqyrave",
             "Nuk për doret ne punimet e veshjes me ar"
         ],
-        "correct": 1,
-        "explanation": "Merkuri përdoret si antiseptik/antifungal në disa aplikime."
+        "correct": 0,
+        "explanation": "Merkuri lëshohet në mjedis edhe nga djegia e karburanteve fosile, përfshirë automjetet dhe termocentralet."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-051",
@@ -621,7 +621,7 @@
             "Asnjëra nga përgjigjet"
         ],
         "correct": 3,
-        "explanation": "Sipas grupit specifik të alternativave të kësaj pyetjeje, asnjëra nuk përshkruan saktë efektin e drejtpërdrejtë të oksidit të azotit."
+        "explanation": "Oksidi i azotit irriton rrugët respiratore dhe është ndotës parësor, prandaj asnjë nga pohimet nuk është i saktë."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-053",
@@ -644,8 +644,8 @@
             "Nuk lidhet me mjedisin",
             "Asnjëra nga përgjigjet"
         ],
-        "correct": 3,
-        "explanation": "Sipas alternativave të dhëna këtu, asnjëra nuk e përshkruan plotësisht konceptin e zhvillimit të qëndrueshëm."
+        "correct": 1,
+        "explanation": "Zhvillimi i qëndrueshëm merr parasysh interesat e brezave të ardhshëm."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-055",
@@ -668,8 +668,8 @@
             "nga rrezatimet",
             "Demtimet ne vendin e punës"
         ],
-        "correct": 1,
-        "explanation": "Rreziqet nga sportet klasifikohen si rreziqe fizike në këtë kontekst specifik shëndeti mjedisor/pune."
+        "correct": 2,
+        "explanation": "Rrezatimet konsiderohen rreziqe fizike klasike mjedisore."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-057",
@@ -680,8 +680,8 @@
             "Përdoren për kancerogenet",
             "Nuk përfshijnë DL50 dhe PL 50"
         ],
-        "correct": 1,
-        "explanation": "Studimet e toksicitetit akut nuk arrijnë të karakterizojnë plotësisht kimikatet, prandaj nevojiten edhe studime afatgjata/kronike."
+        "correct": 0,
+        "explanation": "Studimet e toksicitetit akut përdoren për matjen e toksicitetit të substancave (p.sh. me DL50)."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-058",
@@ -692,8 +692,8 @@
             "Për doret për të për shkruar humbjen e kontributeve",
             "Demtimet shpjegojnë njëvegel të VPHJ"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj pyetjeje specifike, dëmtimet janë ato që shpjegojnë njësinë matëse të VPHJ (Viteve Potenciale të Humbura të Jetës)."
+        "correct": 0,
+        "explanation": "VPHJ synon të vlerësojë/gjykojë humbjen e jetës njerëzore në vite potenciale."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-059",
@@ -704,8 +704,8 @@
             "Nuk lidhet me publikun",
             "Asnjëra nga përgjigjet"
         ],
-        "correct": 3,
-        "explanation": "Sipas grupit specifik të alternativave, asnjëra nuk përshkruan saktë procesin e gjykimit mbi riskun."
+        "correct": 1,
+        "explanation": "Gjykimi mbi riskun kërkon domosdoshmërisht krahasim me standardet e pranuara."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-060",
@@ -740,8 +740,8 @@
             "Nuk lidhet me transportin",
             "Nuk lidhet me energjine"
         ],
-        "correct": 0,
-        "explanation": "Kontrolli i cilësisë së ajrit të jashtëm lidhet drejtpërdrejt me vendndodhjen/planifikimin e ndërtimeve dhe zonimin urban."
+        "correct": 3,
+        "explanation": "Kontrolli i cilësisë së ajrit lidhet me emetimet nga transporti, ndërtimi dhe prodhimi i energjisë, prandaj pohimi \"nuk lidhet me energjinë\" është i gabuar. Pyetja kërkon pikërisht këtë pohim."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-063",
@@ -836,8 +836,8 @@
             "Disa bejne të mundur levizjen",
             "Janë të gjitha të verteta"
         ],
-        "correct": 2,
-        "explanation": "Disa lloje fimbriesh/pilesh (si pili tip IV) mundësojnë lëvizshmërinë bakteriale përmes tërheqjes-lëshimit."
+        "correct": 3,
+        "explanation": "Fimbriet/pilet janë proteinikë, disa shërbejnë si faktorë virulence dhe disa mundësojnë lëvizje."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-071",
@@ -848,8 +848,8 @@
             "Me të ndjeshem ndaj antibiotikeve",
             "Me të lehtë për tu kultivuar"
         ],
-        "correct": 0,
-        "explanation": "Humbja e kapsulës mund të dëmtojë aftësinë e bakterit për t'u rritur/mbijetuar në kushte të caktuara, përveç rritjes së ndjeshmërisë ndaj fagocitozës."
+        "correct": 1,
+        "explanation": "Kapsula mbron bakteret nga fagocitoza; humbja e saj i bën më të ndjeshme ndaj saj."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-072",
@@ -860,8 +860,8 @@
             "Peptidoglikani, acidi teicoic dhe acidi lipoteikoik",
             "Membrana fosfolipidike e acidi teikoik"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative specifike, muri i gram-pozitivëve përshkruhet si një shtresë e vetme e trashë peptidoglikani."
+        "correct": 2,
+        "explanation": "Muri i baktereve gram-pozitive përbëhet nga peptidoglikani, acidi teikoik dhe lipoteikoik."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-073",
@@ -872,8 +872,8 @@
             "37C",
             "80C"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative specifike, sporet bakteriale konsiderohen të vrara në temperaturën 80°C në kontekstin e pyetjes (metodë jo-standarde/alternative krahasimi)."
+        "correct": 0,
+        "explanation": "Sporet bakteriale vriten zakonisht në temperaturë autoklave prej 121°C."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-074",
@@ -897,7 +897,7 @@
             "Mbas etheve, kur temperatura po rritet"
         ],
         "correct": 2,
-        "explanation": "Hemokultura mund të merret në çdo moment të fazës febrile, pasi bakteremia mund të jetë e vazhdueshme; nuk kërkohet domosdoshmërisht momenti i frisoneve."
+        "explanation": "Hemokultura merret në çdo moment të fazës febrile, mundësisht në fillim të ethes, para fillimit të antibiotikëve, në disa marrje."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-076",
@@ -1016,8 +1016,8 @@
             "Është nje mekanizem ku qeliza për fiton nje ADN prezentë ne ambjent",
             "Është i mundesuar nga plamidi i pranishem ne qelizen dhuruese"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative specifike, transduksioni lidhet me praninë e plazmidit në qelizën dhuruese si mekanizëm shoqërues."
+        "correct": 0,
+        "explanation": "Transduksioni është transferim gjenetik i mundësuar nga bakteriofagu."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-086",
@@ -1077,7 +1077,7 @@
             "Frenojne sintezen e viruseve"
         ],
         "correct": 2,
-        "explanation": "Interferonet janë, para së gjithash, një grup proteinash (citokina) të sekretuara si përgjigje ndaj infeksioneve virale."
+        "explanation": "Interferonet janë grup proteinash (citokina) që prodhohen nga qelizat e infektuara me virus dhe frenojnë shumimin viral në qelizat fqinje."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-091",
@@ -1112,8 +1112,8 @@
             "Strukturor",
             "Kalorik"
         ],
-        "correct": 3,
-        "explanation": "Në kontekstin e kësaj pyetjeje specifike, funksioni themelor i karbohidrateve përshkruhet si 'kalorik'."
+        "correct": 1,
+        "explanation": "Karbohidratet kanë funksion kryesisht energjiprodhues."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-094",
@@ -1136,8 +1136,8 @@
             "Kanëgrup prostetik dhe amino acide",
             "Nuk Kanëaminoacide."
         ],
-        "correct": 0,
-        "explanation": "Proteinat e thjeshta, në krahasim me ato të përbëra, mund të përmbajnë vetëm strukturë aminoacide pa grup shtesë - por sipas kësaj alternative specifike, përgjigja e pritur ishte 'kanë grup prostetik' (referuar ndoshta te lloji tjetër i klasifikimit)."
+        "correct": 1,
+        "explanation": "Proteinat e thjeshta përbëhen vetëm nga aminoacide, pa grup prostetik."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-096",
@@ -1148,8 +1148,8 @@
             "Rritje të presionit onkotik",
             "Asnjë nga efektet e sipër përmendura"
         ],
-        "correct": 3,
-        "explanation": "Sipas grupit specifik të alternativave, hipoalbuminemia nuk shoqërohet domosdoshmërisht me asnjë nga efektet e listuara në këtë pyetje."
+        "correct": 0,
+        "explanation": "Hipoalbuminemia shkakton ulje të presionit onkotik plazmatik (edemë)."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-097",
@@ -1172,8 +1172,8 @@
             "Karbohidrate",
             "Proteina"
         ],
-        "correct": 0,
-        "explanation": "Trigliceridet klasifikohen si lipide të thjeshta."
+        "correct": 1,
+        "explanation": "Pyetja i klasifikon trigliceridet si lipide të përbëra, sepse përbëhen nga glicerina e esterifikuar me tre acide yndyrore."
     },
     {
         "id": "infermieristik-dietologji-mikrobiologji-biokimi-099",
@@ -1185,6 +1185,6 @@
             "Asnjëra"
         ],
         "correct": 2,
-        "explanation": "Acidi hialuronik klasifikohet shkencërisht si heteropolisaharid (glikozaminoglikan i përbërë nga njësi të përsëritura acid glukuronik dhe N-acetilglukozaminë) — fakt biokimik i qëndrueshëm i pandryshuar."
+        "explanation": "Acidi hialuronik është heteropolisaharid (glikozaminoglikan)."
     }
 ]

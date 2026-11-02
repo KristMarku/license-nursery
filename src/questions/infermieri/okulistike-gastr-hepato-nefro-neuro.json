@@ -56,8 +56,8 @@
       "Ka folikuj ne konjuktive",
       "Ka zmadhim te papilave"
     ],
-    "correct": 2,
-    "explanation": "Konjuktiviti viral karakterizohet nga prania e folikujve në konjuktivë."
+    "correct": 0,
+    "explanation": "Konjunktivitet virale janë të shpeshta në çdo stinë dhe shumë ngjitëse, sidomos ato nga adenoviruset."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-006",
@@ -92,8 +92,8 @@
       "62 dioptri",
       "50 dioptri"
     ],
-    "correct": 0,
-    "explanation": "Sipas kësaj alternative, fuqia përthyese e syrit konsiderohet 60 dioptri."
+    "correct": 1,
+    "explanation": "Fuqia përthyese totale e syrit është rreth 58 dioptri."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-009",
@@ -381,7 +381,7 @@
       "Antibiotiket"
     ],
     "correct": 0,
-    "explanation": "Sipas kësaj alternative, atropina konsiderohet mjekimi kryesor në uveite (veti cikloplegjike/parandaluese sinekish)."
+    "explanation": "Në uveit atropina (cikloplegjikët) është mjekim kryesor: qetëson dhimbjen nga spazma ciliare dhe parandalon sinekiet posteriore."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-033",
@@ -1041,7 +1041,7 @@
       "neuronale në cornu anterior yë medulles spinale."
     ],
     "correct": 1,
-    "explanation": "Sipas kësaj alternative, SLA karakterizohet nga humbje neuronale në traktin piramidal."
+    "explanation": "SLA karakterizohet nga humbja e neuroneve motore, përfshirë traktin piramidal (neuroni motor i sipërm) dhe brirët anteriorë të palcës."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-088",
@@ -1268,8 +1268,8 @@
       "Simptomatologjia specifike që shfaqet para dhimbjes;",
       "Nuk ka lidhje me dhimbjen e kokës."
     ],
-    "correct": 0,
-    "explanation": "Sipas kësaj alternative, aura e migrenës përshkruhet si faza e dhimbjes maksimale të kokës."
+    "correct": 2,
+    "explanation": "Aura e migrenës është simptomatologji që shfaqet para fillimit të dhimbjes."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-107",
@@ -1448,8 +1448,8 @@
       "Sklera blu",
       "Ptozë palpebrale"
     ],
-    "correct": 0,
-    "explanation": "Sipas kësaj alternative, deformimi i shtyllës kurrizore listohet ndër shenjat klinike të osteogenezës imperfekte."
+    "correct": 2,
+    "explanation": "Sklera blu është shenjë klasike e osteogenezës imperfekte."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-122",
@@ -1461,7 +1461,7 @@
       "Asnjë prej tyre"
     ],
     "correct": 2,
-    "explanation": "Osteoporoza karakterizohet nga të dyja: mineralizim i pamjaftueshëm dhe pakësim i masës kockore, sipas kësaj alternative."
+    "explanation": "Osteoporoza karakterizohet si nga pakësimi i masës kockore, ashtu edhe nga mineralizimi i pamjaftueshëm i saj, që e bëjnë kockën të brishtë."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-123",
@@ -1472,8 +1472,8 @@
       "Shkurtim të strukturave dorsale",
       "Nuk kemi shkurtim të asnjë strukture"
     ],
-    "correct": 3,
-    "explanation": "Sipas kësaj alternative, në pes ekuinovarus nuk kemi shkurtim të asnjë strukture specifike të listuar këtu."
+    "correct": 1,
+    "explanation": "Pes equinovarus karakterizohet nga shkurtim i strukturave mediale."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-124",
@@ -1604,8 +1604,8 @@
       "nervit radial",
       "nervit ulnar"
     ],
-    "correct": 1,
-    "explanation": "Sipas kësaj alternative, fraktura e diafizës humerale mund të dëmtojë arterien ulnare."
+    "correct": 2,
+    "explanation": "Fraktura e diafizës humerale rrezikon dëmtimin e nervit radial."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-135",
@@ -1617,7 +1617,7 @@
       "kirurgjikalisht"
     ],
     "correct": 1,
-    "explanation": "Sipas kësaj alternative, reponimi i luksacionit gleno-humeral bëhet specifikisht sipas metodës Kocher."
+    "explanation": "Luksacioni gleno-humeral reponohet zakonisht me metodën Kocher (tërheqje, rotacion i jashtëm, aduksion dhe rotacion i brendshëm)."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-136",
@@ -1628,8 +1628,8 @@
       "Ekstension",
       "Pronacion"
     ],
-    "correct": 1,
-    "explanation": "Sipas kësaj alternative, imobilizimi pas frakturës ekstensore suprakondilare kryhet në abduksion."
+    "correct": 0,
+    "explanation": "Fraktura ekstensore suprakondilare imobilizohet në fleksion."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-137",
@@ -1688,8 +1688,8 @@
       "pseudoartroza",
       "asnjë prej tyre"
     ],
-    "correct": 3,
-    "explanation": "Sipas kësaj alternative, faza e dytë e konsolidimit kockor nuk përputhet me asnjë nga alternativat e tjera të listuara."
+    "correct": 0,
+    "explanation": "Faza e dytë e konsolidimit kockor është formimi i kallusit primar."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-142",
@@ -1725,7 +1725,7 @@
       "Asnjera nga keto"
     ],
     "correct": 3,
-    "explanation": "Sipas kësaj alternative, asnjë nga alternativat e tjera nuk përshkruan saktë kundërindikimin e pilulave progestative."
+    "explanation": "Pilulat vetëm me progesteron nuk e ndikojnë laktacionin, prandaj nuk kundërindikohen në asnjë fazë të ushqyerjes me gji."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-145",
@@ -1773,7 +1773,7 @@
       "Asnje nga keta"
     ],
     "correct": 2,
-    "explanation": "Sipas kësaj alternative, tipi i pilulave të kombinuara përcaktohet nga doza e të dyve (estrogjen+progesteron)."
+    "explanation": "Tipi i pilulës së kombinuar përcaktohet nga doza e të dy përbërësve, etinilestradiolit dhe progestinës (monofazike, bifazike, trifazike)."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-149",
@@ -1809,7 +1809,7 @@
       "Asnje nga opsionet"
     ],
     "correct": 3,
-    "explanation": "Sipas kësaj alternative, asnjë nga alternativat e tjera nuk e përshkruan plotësisht cilësinë e një mesazhi efektiv."
+    "explanation": "Mesazhi shëndetësor duhet të jetë i qartë, i kuptueshëm dhe i përsëritur sipas nevojës; nuk mjafton të jetë thjesht i gjatë ose i shkurtër."
   },
   {
     "id": "infermieristik-okulistike-gastro-neuro-152",
@@ -1820,7 +1820,7 @@
       "Pjekja dhe dalja e vezes nga folikuli",
       "Asnje nga opsionet"
     ],
-    "correct": 1,
-    "explanation": "Sipas kësaj alternative, ovulacioni përkufizohet specifikisht si dalja e vezës nga folikuli."
+    "correct": 2,
+    "explanation": "Ovulacioni përfshin si pjekjen ashtu edhe daljen e vezës nga folikuli."
   }
 ]

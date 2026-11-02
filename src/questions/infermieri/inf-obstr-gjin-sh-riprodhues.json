@@ -188,8 +188,8 @@
             "Gonorrea",
             "Klamidia"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, gonorrea listohet si infeksioni pa mjekim vetëm simptomatik (në vend të herpesit)."
+        "correct": 1,
+        "explanation": "Herpesi genital (viral) nuk ka mjekim kurues specifik, vetëm terapi simptomatike/supresive."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-017",
@@ -356,8 +356,8 @@
             "Afersisht10 javë",
             "Pas 10 ditësh"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, ekografia me sondë vaginale arrin të përcaktojë barrën pas rreth 10 ditësh."
+        "correct": 1,
+        "explanation": "Ekografia transvaginale mund të konfirmojë shtatzaninë që në javën e 4-të."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-031",
@@ -404,8 +404,8 @@
             "Shenja e Hegarit",
             "Striae gravidarum"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, kloazma gravidarum NUK bën pjesë në ndryshimet e lëkurës gjatë shtatzanisë të listuara këtu (renditje e ndryshme nga zakonshmja)."
+        "correct": 2,
+        "explanation": "Shenja e Hegarit është shenjë uterine, jo ndryshim i lëkurës."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-035",
@@ -429,7 +429,7 @@
             "Tonusi muskular"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, toni muskular NUK ndikon në lartësinë e fundusit uterin."
+        "explanation": "Lartësia e fundusit ndikohet nga barra binjake, hidramnioni dhe qëndrimi fetal, sepse ato ndryshojnë përmbajtjen e uterusit; tonusi muskular nuk e ndryshon atë."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-037",
@@ -465,7 +465,7 @@
             "Një gisht nën umbilicus"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, në javën 16 fundusi përshkruhet në nivelin e gjysmës së vijës simfizë-umbilikus."
+        "explanation": "Në javën e 16-të fundusi ndodhet në mes të vijës që bashkon simfizën pubike me umbilikusin."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-040",
@@ -476,8 +476,8 @@
             "1 - 2 gisht mbi umbilicus",
             "3 - 4 gisht nën procesin ksifoid"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, në javën 24 fundusi përshkruhet në 1/3 e poshtme të vijës umbilikus-proces ksifoid."
+        "correct": 2,
+        "explanation": "Në javën 24, fundusi ndodhet rreth 1-2 gisht mbi umbilikus."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-041",
@@ -609,7 +609,7 @@
             "Varicelës"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, vaksina antirabike listohet ndër ato të administrueshme gjatë shtatzanisë."
+        "explanation": "Vaksina e tërbimit është e inaktivuar dhe jepet edhe në shtatzëni kur ka ekspozim, sepse tërbimi është vdekjeprurës."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-052",
@@ -669,7 +669,7 @@
             "Prezencën e lëvizjeve fetale"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, prania e hCG në urinë konsiderohet gjetja domethënëse për këtë moshë shtatzanie."
+        "explanation": "Te testi pozitiv shenja sinjifikative për këtë fazë të hershme është prania e hCG në urinë, që konfirmon kimikisht barrën."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-057",
@@ -860,8 +860,8 @@
             "Hiperemezis gravidarum",
             "Polihidramion"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, kontrolli i dobët i glicemisë herët në barrë shoqërohet me episode të shpeshta hipoglicemie amtare."
+        "correct": 0,
+        "explanation": "Glicemia e pakontrolluar herët në barrë rrit riskun për anomali kongenitale fetale."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-073",
@@ -909,7 +909,7 @@
             "Qetësimi i gruas duke i treguar asaj që edhe n.q.se e humbet këtë fëmijë ajo mund të ngelet përsëri shtatzane pas një muaji."
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, trajtimi për rrezik aborti përfshin ekzaminim ekografik për integritetin e sakut gestacional."
+        "explanation": "Te rreziku për abort, hapi i parë është ekografia për të parë integritetin e qeses gestacionale dhe aktivitetin kardiak; trajtimi vendoset pas saj."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-077",
@@ -921,7 +921,7 @@
             "Testet biofizike për të diagnostikuar SGA/IUGR"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, testet biofizike përdoren për diagnostikimin e SGA/IUGR."
+        "explanation": "Diagnoza e SGA/IUGR mbështetet te testet biofizike (biometria ekografike, Doppler, profili biofizik), që matin rritjen dhe mirëqenien e fetusit."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-078",
@@ -957,7 +957,7 @@
             "Gestacinale"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, lindja në javën 41 klasifikohet si termë."
+        "explanation": "Lindja në javën e 41-të konsiderohet në term, sepse termi përfshin javët 37–42; postterm quhet lindja pas javës së 42-të."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-081",
@@ -1005,7 +1005,7 @@
             "Përgatitja e qafës mitrës (zbutja) dhe shkurtimi i saj 25%"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, dilatacioni cervikal mbi 1 cm konsiderohet shenjë e lindjes pretermë."
+        "explanation": "Dilatacioni cervikal mbi 1 cm, bashkë me kontraksione të rregullta, është shenjë objektive se lindja preterme ka filluar."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-085",
@@ -1065,7 +1065,7 @@
             "30 min"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, kontraksionet uterine vlerësohen për rreth 30 minuta në këtë rast."
+        "explanation": "Kontraksionet uterine vlerësohen për rreth 30 minuta, që të përcaktohen frekuenca, kohëzgjatja dhe intensiteti i tyre."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-090",
@@ -1341,7 +1341,7 @@
             "Të përdorë një metodë tjetër kontraceptive për një cikël të plotë"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, pas abortit në tremujorin e parë këshillohet përdorimi i një metode tjetër kontraceptive për një cikël të plotë."
+        "explanation": "Kur kontraceptivët oralë fillohen pas abortit, rekomandohet një metodë shtesë për ciklin e parë, deri sa pilulat të arrijnë efektin e plotë mbrojtës."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-113",
@@ -1377,7 +1377,7 @@
             "Sfungjerët"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, diafragmat listohen ndër kontraceptivët që nuk duhen përdorur pas sindromit të shokut toksik."
+        "explanation": "Pas sindromit të shokut toksik nuk duhet përdorur diafragma (as sfungjeri vaginal), sepse qëndrimi i gjatë i tyre në vaginë favorizon rritjen e stafilokokut toksigjen."
     },
     {
         "id": "infermieristik-obstetri-gjinekologji-116",
@@ -1473,6 +1473,6 @@
             "Rrjedhje menstruale më pak se 5-6 ditë"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, spotingu i vogël mes periudhave kërkon mbledhje informacioni shtesë."
+        "explanation": "Spotingu ndërmjet cikleve është i çrregullt dhe mund të tregojë patologji (polipe, infeksion, kancer cervikal), prandaj kërkon informacion shtesë."
     }
 ]

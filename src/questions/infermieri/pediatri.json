@@ -116,8 +116,8 @@
             "Ka në përdorim metoda parandalimi",
             "Është një nga shkaqet e prematurancës"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, ekzistenca e metodave parandaluese (vaksinim para shtatzanisë) listohet si karakteristikë e rubeolës kongjenitale."
+        "correct": 3,
+        "explanation": "Rubeola kongenitale lidhet kryesisht me keqformime kongenitale, jo kryesisht me prematuritetin."
     },
     {
         "id": "infermieristik-pediatri-2-011",
@@ -369,7 +369,7 @@
             "Hipoalbuminemi"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, deklarata për ushqyerjen ekskluzive me gji përfshihet identike si karakteristikë (jo si përjashtim) i Kwashiorkor-it në këtë formulim specifik."
+        "explanation": "Ushqyerja ekskluzive me gji 6 muajt e parë është normale, jo shenjë e Kwashiorkor-it."
     },
     {
         "id": "infermieristik-pediatri-2-032",
@@ -380,8 +380,8 @@
             "Kërkimi për pus e gjak në feçe",
             "Gjak komplet"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, gjaku komplet nuk ka vlerë specifike në diagnostikimin e shigelozës."
+        "correct": 1,
+        "explanation": "Hemokultura nuk ka vlerë diagnostikuese specifike në shigelozë."
     },
     {
         "id": "infermieristik-pediatri-2-033",
@@ -572,8 +572,8 @@
             "Alergjia medikamentoze",
             "Idiopatik- i pa njohur"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, shkaku më i shpeshtë i urtikarieve konsiderohet idiopatik (i panjohur)."
+        "correct": 2,
+        "explanation": "Te fëmijët urtikaria akute shkaktohet shpesh nga alergjia medikamentoze (antibiotikët, AIJS), bashkë me ushqimet dhe infeksionet."
     },
     {
         "id": "infermieristik-pediatri-2-049",
@@ -620,8 +620,8 @@
             "Nuk ka nevoje per ekzaminime paraprake",
             "Asnjëra"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, trajtimi i stenozës hipertrofike të pilorit NUK konsiderohet urgjencë mjekësore emergjente (por planifikohet)."
+        "correct": 1,
+        "explanation": "Stenoza hipertrofike e pilorit kërkon trajtim si urgjencë mjekësore."
     },
     {
         "id": "infermieristik-pediatri-2-053",
@@ -753,7 +753,7 @@
             "klorur kaliumi"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, klorur kaliumi (KCl 7.5%) specifikohet si solucioni që nuk jepet në 2-3 orët e para të rehidrimit të rëndë."
+        "explanation": "Kaliumi shmanget në orët e para derisa të konfirmohet funksioni renal/diureza (rrezik hiperkalemie)."
     },
     {
         "id": "infermieristik-pediatri-2-064",
@@ -813,7 +813,7 @@
             "Parazitët"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, bakteret listohen si shkaktari specifik i referuar në këtë formulim të diarresë infektive."
+        "explanation": "Diarreja infektive me pamje inflamatore (me gjak e mukus) shkaktohet kryesisht nga bakteret: Shigella, Salmonella, E. coli, Campylobacter."
     },
     {
         "id": "infermieristik-pediatri-2-069",
@@ -1101,7 +1101,7 @@
             "Skarlatinë"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, ekzantema që përfshin edhe lëkurën me flokë lidhet me variçelën."
+        "explanation": "Ekzantema e variçelës shfaqet edhe në lëkurën me flokë dhe në mukoza, ndryshe nga ekzantemat e tjera."
     },
     {
         "id": "infermieristik-pediatri-2-093",
@@ -1268,8 +1268,8 @@
             "Transmetimi është fekal-oral",
             "Infeksioni manifestohet me rritje të transaminazave dhe bilirubinës"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, periudha e inkubacionit 15-50 ditë NUK përfshihet si karakteristikë e listuar këtu për hepatitin A (renditje e ndryshme nga zakonshmja)."
+        "correct": 1,
+        "explanation": "Hepatiti A nuk shoqërohet zakonisht me manifestime të shumta ekstrahepatike."
     },
     {
         "id": "infermieristik-pediatri-2-107",
@@ -1400,8 +1400,8 @@
             "Temperatura septike",
             "Konvulsionet"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, temperatura septike lidhet me hepatitin akut."
+        "correct": 1,
+        "explanation": "Urtikaria (reaksion tip sëmundje serumi) mund të shoqërojë fazën prodromale të hepatitit akut."
     },
     {
         "id": "infermieristik-pediatri-2-118",
@@ -1412,8 +1412,8 @@
             "Prania e wheezing është e përhershme",
             "Sëmundja karakterizohet nga dispne e tipit inspirator"
         ],
-        "correct": 3,
-        "explanation": "Astma karakterizohet nga dispne ekspiratore, jo inspiratore."
+        "correct": 2,
+        "explanation": "Te astma wheezing-u shfaqet gjatë krizave, jo në mënyrë të përhershme, sepse obstruksioni bronkial është i kthyeshëm."
     },
     {
         "id": "infermieristik-pediatri-2-119",
@@ -1496,8 +1496,8 @@
             "Skarlatinën",
             "Infeksionin e rrugëve urinare"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, trajtimi i tonsilofaringitit streptokoksik parandalon infeksionin e rrugëve urinare (në kontekstin specifik të kësaj pyetjeje)."
+        "correct": 1,
+        "explanation": "Trajtimi i infeksionit streptokoksik parandalon zhvillimin e ethes reumatizmale."
     },
     {
         "id": "infermieristik-pediatri-2-126",
@@ -1592,8 +1592,8 @@
             "Eshtë sëmundje autozomale recesive",
             "Mund të ketë hemorragji intrakraniale"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, prania e mundshme e hemoragjisë intrakraniale NUK përfshihet si karakteristikë 'jo e vërtetë' e Hemofilisë A (pra pohimi tjetër konsiderohet i pasaktë)."
+        "correct": 2,
+        "explanation": "Hemofilia A trashëgohet në mënyrë të lidhur me X, jo autozomale recesive."
     },
     {
         "id": "infermieristik-pediatri-2-134",
@@ -1677,7 +1677,7 @@
             "Antitusivët"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, antitusivët (frenuesit e kollës) konfirmohen si jo të dobishëm në LTB akut."
+        "explanation": "Antitusivët nuk rekomandohen në laringotrakeobronkitin akut (krup)."
     },
     {
         "id": "infermieristik-pediatri-2-141",
@@ -1688,8 +1688,8 @@
             "Polipne",
             "Wheezing"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, ethja NUK gjendet tipikisht në infeksionet e rrugëve të sipërme respiratore (kontekst specifik krahasimi këtu)."
+        "correct": 3,
+        "explanation": "Wheezing lidhet me infeksionet e rrugëve të poshtme respiratore, jo të sipërme."
     },
     {
         "id": "infermieristik-pediatri-2-142",
@@ -1761,7 +1761,7 @@
             "Nga 6 muaj në 5 vjeç"
         ],
         "correct": 3,
-        "explanation": "Konvulsionet febrile hasen më shpesh mes 6 muajve dhe 5 vjetëve."
+        "explanation": "Konvulsionet febrile hasen më shpesh nga 6 muaj në 5 vjeç."
     },
     {
         "id": "infermieristik-pediatri-2-148",
@@ -1856,8 +1856,8 @@
             "Rreth 1-2 orë pas ushqyerjes",
             "Asnjëra"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, e vjella në RGE ndodh rreth 1-2 orë pas ushqyerjes."
+        "correct": 0,
+        "explanation": "Refluksi gastroezofageal shkakton të vjella menjëherë pas ushqyerjes."
     },
     {
         "id": "infermieristik-pediatri-2-156",
@@ -1869,7 +1869,7 @@
             "Asnjëra"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, e vjella në stenozën hipertrofike të pilorit ndodh menjëherë pas ushqyerjes."
+        "explanation": "Në stenozën hipertrofike të pilorit të vjellat janë me forcë (\"në shatërvan\") dhe ndodhin menjëherë ose shumë shpejt pas ushqyerjes."
     },
     {
         "id": "infermieristik-pediatri-2-157",
@@ -1929,7 +1929,7 @@
             "Të gjitha"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, kalueshmëria anale veçohet si ekzaminimi kryesor i parë tek bebi."
+        "explanation": "Në ekzaminimin e parë të të porsalindurit kontrollohet patjetër kalueshmëria anale, për të përjashtuar atrezinë anale."
     },
     {
         "id": "infermieristik-pediatri-2-162",
@@ -1976,8 +1976,8 @@
             "Me permbajtje bile",
             "Asnjëra"
         ],
-        "correct": 0,
-        "explanation": "Të vjellat në stenozën pilorike përmbajnë qumësht (jo-biliare)."
+        "correct": 1,
+        "explanation": "Në stenozën e pilorit qumështi qëndron gjatë në stomak, pritet nga acidi dhe vjellet si \"qumësht i prerë\"; të vjellat nuk kanë bile, sepse obstruksioni është mbi duoden."
     },
     {
         "id": "infermieristik-pediatri-2-166",
@@ -2048,8 +2048,8 @@
             "Femijeve te lindur LGA",
             "Asnjërit"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, anomalitë e bashkëlindura nuk lidhen posaçërisht me asnjë nga kategoritë e listuara këtu."
+        "correct": 1,
+        "explanation": "Anomalitë kongenitale janë më të shpeshta te fëmijët e lindur SGA."
     },
     {
         "id": "infermieristik-pediatri-2-172",
@@ -2073,7 +2073,7 @@
             "Të gjitha"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, trajtimi i problemit imediat theksohet si hapi kryesor para një fëmije të sëmurë."
+        "explanation": "Para një fëmije të sëmurë veprimi i parë është trajtimi i problemit imediat që rrezikon jetën (frymëmarrja, qarkullimi, dehidrimi), pastaj kërkohet shkaku."
     },
     {
         "id": "infermieristik-pediatri-2-174",

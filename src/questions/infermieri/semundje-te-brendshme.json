@@ -380,8 +380,8 @@
             "IRA postrenale",
             "Asnjërën prej tyre"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, sedimenti urinar nuk jep të dhëna specifike për asnjë nga kategoritë e IRA të listuara këtu."
+        "correct": 1,
+        "explanation": "Sedimenti urinar është veçanërisht i dobishëm në diagnostikimin e IRA intrinseke."
     },
     {
         "id": "infermieristik-semundje-brendshme-2-033",
@@ -896,8 +896,8 @@
             "Stabilizuesit e humorit",
             "Benzodiazepinat"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, antidepresantët triciklikë listohen si linja e parë e mjekimit në depresionin madhor/OCD (referencë e vjetër, ndërsa udhëzimet moderne preferojnë SSRI)."
+        "correct": 0,
+        "explanation": "SSRI-të janë linja e parë e mjekimit në depresionin madhor dhe OCD."
     },
     {
         "id": "infermieristik-semundje-brendshme-2-076",
@@ -956,8 +956,8 @@
             "Prodhimit ektopik të ACRH",
             "Artriti simetrik i artikulacioneve interfalangeal proksimale"
         ],
-        "correct": 0,
-        "explanation": "Në sindromën Kushing gjendet hipokalemi, jo hiperkalemi."
+        "correct": 3,
+        "explanation": "Artriti simetrik i nyjeve interfalangeale proksimale është tipik për artritin reumatoid, jo për sindromën Cushing, e cila jep alkalozë metabolike, hipokalemi dhe mund të ketë prodhim ektopik të ACTH."
     },
     {
         "id": "infermieristik-semundje-brendshme-2-081",

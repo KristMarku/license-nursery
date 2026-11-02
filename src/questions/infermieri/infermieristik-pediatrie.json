@@ -21,7 +21,7 @@
             "15min"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, aspirimi i lëngut amniotik duhet kryer jo më shumë se 5 sekonda."
+        "explanation": "Aspirimi i neonatit duhet të jetë i shkurtër, jo më shumë se rreth 5 sekonda për çdo kalim, sepse aspirimi i zgjatur shkakton hipoksi, bradikardi nga stimulimi vagal dhe dëmtim të mukozës."
     },
     {
         "id": "infermieristik-pediatri-003",
@@ -32,8 +32,8 @@
             "5 orë",
             "8 orë"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, temperatura normalizohet rreth 5 orë pas lindjes."
+        "correct": 3,
+        "explanation": "Temperatura e të porsalindurit normalizohet zakonisht brenda rreth 8 orësh pas lindjes."
     },
     {
         "id": "infermieristik-pediatri-004",
@@ -44,8 +44,8 @@
             "gjysëm vertikal",
             "shtrirë me kurriz"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, fëmija me çrregullim të buzës së lepurit ushqehet i shtrirë anash."
+        "correct": 2,
+        "explanation": "Fëmijët me buzë të çarë ushqehen në pozicion gjysëm vertikal për të reduktuar riskun e aspirimit."
     },
     {
         "id": "infermieristik-pediatri-005",
@@ -69,7 +69,7 @@
             "Glukoz"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, mukoza e gojës pastrohet me solucion bikarbonat te fëmijët me stenozë pilori."
+        "explanation": "Mukoza e gojës te fëmijët me stenozë të pilorit, që vjellin shpesh, pastrohet me solucion bikarbonati, i cili neutralizon aciditetin e të vjellave dhe parandalon kandidozën orale."
     },
     {
         "id": "infermieristik-pediatri-007",
@@ -104,8 +104,8 @@
             "50 cm",
             "60 cm"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, zhvillimi pamor i të porsalindurit vlerësohet në një gjatësi rreth 20 cm (distancë fokusi vizual)."
+        "correct": 2,
+        "explanation": "Gjatësia mesatare e të porsalindurit në lindje është rreth 50 cm."
     },
     {
         "id": "infermieristik-pediatri-010",
@@ -164,8 +164,8 @@
             "20 mg/dl",
             "25 mg/dl"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, ikteri fiziologjik i avancuar lidhet me vlera bilirubine rreth 20 mg/dl."
+        "correct": 1,
+        "explanation": "Sipas rregullit të Kramer, zbritja e ikterit deri te anësitë e poshtme korrespondon me bilirubinë rreth 15 mg/dl."
     },
     {
         "id": "infermieristik-pediatri-015",
@@ -428,8 +428,8 @@
             "gjakrrjedhje nga hunda",
             "gërrhitje"
         ],
-        "correct": 1,
-        "explanation": "Infeksioni/hipertrofia e adenoidit shkakton obstruksion nazal, pra frymëmarrje me gojë."
+        "correct": 0,
+        "explanation": "Adenoidet e infektuara bllokojnë hyrjen e tubit të Eustakit, prandaj shenja kryesore është dhimbja e veshit (otiti); frymëmarrja me gojë dhe gërhitja lidhen më shumë me hipertrofinë kronike."
     },
     {
         "id": "infermieristik-pediatri-037",
@@ -549,7 +549,7 @@
             "i gripit"
         ],
         "correct": 2,
-        "explanation": "Fruthi shkaktohet specifikisht nga virusi i fruthit (measles), i identifikuar këtu në mënyrë specifike jo thjesht si 'RNA virus' i përgjithshëm."
+        "explanation": "Fruthi shkaktohet nga virusi i fruthit (Morbillivirus i familjes Paramyxoviridae), virus me ARN."
     },
     {
         "id": "infermieristik-pediatri-047",
@@ -657,7 +657,7 @@
             "nivelit te yndyrnave"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, ulja e filtrimit renal në dëmtimet kronike fillon me rritjen e nivelit serik të fosfateve."
+        "explanation": "Me uljen e filtrimit glomerular veshka nuk arrin të nxjerrë fosfatet, prandaj rritja e fosfatemisë është ndër ndryshimet e para biokimike në sëmundjen kronike renale."
     },
     {
         "id": "infermieristik-pediatri-056",
@@ -717,7 +717,7 @@
             "250"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, në dehidrimin e rëndë nevojiten rreth 100 ml/kg/24 orë likide intravenoze."
+        "explanation": "Në dehidrimin e rëndë jepen rreth 100 ml/kg likide intravenoze (Ringer laktat), sipas planit C të OBSH-së, para se fëmija të kalojë në rehidrim oral."
     },
     {
         "id": "infermieristik-pediatri-061",
@@ -764,8 +764,8 @@
             "imiton një apendisit akut",
             "shoqërohet me prurit"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, dhimbja nga pickimi i merimangës përhapet nga vendi i pickimit drejt qendrës (jo domosdoshmërisht imitim apendisiti)."
+        "correct": 2,
+        "explanation": "Dhimbja abdominale nga pickimi i merimangës së zezë mund të imitojë një abdomen akut/apendisit."
     },
     {
         "id": "infermieristik-pediatri-065",
@@ -777,7 +777,7 @@
             "100-120 ml"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, gjatë helmimit aplikohen 50-80 ml tretësirë kripore me sondë gastrike."
+        "explanation": "Gjatë lavazhit gastrik te fëmija futen me sondë porcione të vogla solucioni fiziologjik, rreth 50–80 ml (afërsisht 10–15 ml/kg) për çdo porcion, që të mos shtyhet helmi drejt zorrës."
     },
     {
         "id": "infermieristik-pediatri-066",
@@ -813,7 +813,7 @@
             "thellim të syve, dhimbje barku e koke"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, thellimi i syve veçohet si shenja kryesore e dehidrimit pas të vjellave."
+        "explanation": "Shenja objektive e dehidrimit pas të vjellave është thellimi i syve, bashkë me mukozat e thata dhe uljen e diurezës; dhimbja e barkut dhe e kokës nuk janë shenja dehidrimi."
     },
     {
         "id": "infermieristik-pediatri-069",
@@ -921,7 +921,7 @@
             "dhimbjet e kokës"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, vlerësimi infermieror në diabet përqendrohet te informimi i pacientit për sëmundjen."
+        "explanation": "Vlerësimi infermieror në diabet përqendrohet te njohuritë e fëmijës dhe familjes për sëmundjen (insulina, dieta, njohja e hipoglicemisë), sepse menaxhimi i përditshëm varet nga to."
     },
     {
         "id": "infermieristik-pediatri-078",
@@ -1004,8 +1004,8 @@
             "13-15 ditë",
             "16-18 ditë"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, periudha e fshehtë e poliomelitit abortiv konsiderohet 16-18 ditë."
+        "correct": 1,
+        "explanation": "Periudha e inkubacionit të poliomielitit abortiv është rreth 7-10 ditë."
     },
     {
         "id": "infermieristik-pediatri-085",
@@ -1052,8 +1052,8 @@
             "Vënia e perfuzioneve I/V",
             "Rregullimi i temperaturës"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, ndërhyrja e parë te fëmija prematur është dhënia e oksigjenit."
+        "correct": 3,
+        "explanation": "Te prematuri, ndërhyrja e parë prioritare është rregullimi/ruajtja e temperaturës trupore."
     },
     {
         "id": "infermieristik-pediatri-089",
@@ -1209,7 +1209,7 @@
             "PerfuzioneI/V"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, infeksioni umbilikal trajtohet me alkool 70 gradë."
+        "explanation": "Infeksioni lokal i kërthizës trajtohet me pastrim të rregullt me alkool 70° që e than dhe e dezinfekton; antibiotikët sistemikë rezervohen për omfalitin me shenja të përhapjes."
     },
     {
         "id": "infermieristik-pediatri-102",
@@ -1449,7 +1449,7 @@
             "Stafilokok"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, Salmonela listohet si shkaktari që NUK provokon artrit në këtë grup krahasimi."
+        "explanation": "Artriti septik te fëmija shkaktohet më shpesh nga stafilokoku, Haemophilus influenzae dhe E. coli te neonati; salmonela shkakton më shpesh osteomielit (sidomos te drepanocitoza) sesa artrit."
     },
     {
         "id": "infermieristik-pediatri-122",
@@ -1497,7 +1497,7 @@
             "Trakeiti bakterial"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, bronkioliti NUK bën pjesë në spektrin e LTB (laringotrakeobronkitit)."
+        "explanation": "LTB (kruspi) përfshin laringotrakeitin, epiglotitin dhe trakeitin bakterial, që prekin rrugët e sipërme; bronkioliti prek rrugët e poshtme dhe nuk bën pjesë në këtë grup."
     },
     {
         "id": "infermieristik-pediatri-126",
@@ -1580,8 +1580,8 @@
             "Gonokoku",
             "Rikecia"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, gonokoku NUK përfshihet ndër shkaktarët tipikë të endokarditit bakterial në këtë listë krahasimi."
+        "correct": 3,
+        "explanation": "Rikecia nuk shkakton endokardit bakterial klasik."
     },
     {
         "id": "infermieristik-pediatri-133",
@@ -1665,7 +1665,7 @@
             "Konvulsione"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, konvulsionet NUK bëjnë pjesë në klinikën tipike të bronkiolitit."
+        "explanation": "Bronkioliti jep temperaturë, vështirësi në frymëmarrje dhe kollë, ndërsa konvulsionet nuk janë pjesë e klinikës së tij."
     },
     {
         "id": "infermieristik-pediatri-140",
@@ -1713,7 +1713,7 @@
             "Oksigjenoterapia"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, oksigjenoterapia NUK bën pjesë në ndërhyrjet specifike të IRA (në këtë grup krahasimi)."
+        "explanation": "Trajtimi i IRA-s përfshin kufizimin e kripës, trajtimin e shkakut (edhe me antibiotikë) dhe dializën kur nevojitet; oksigjenoterapia nuk është pjesë e trajtimit specifik të IRA-s."
     },
     {
         "id": "infermieristik-pediatri-144",
@@ -1856,8 +1856,8 @@
             "6-8 dite",
             "7-10 dite"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, jeta e trombocitit mund të shkurtohet deri në 7-10 ditë në trombocitopeni."
+        "correct": 1,
+        "explanation": "Te trombocitopenia imune trombocitet shkatërrohen herët nga shpretka, prandaj jeta e tyre shkurtohet nga 7–10 ditë në rreth 3–5 ditë ose më pak."
     },
     {
         "id": "infermieristik-pediatri-156",
@@ -1904,8 +1904,8 @@
             "narinës",
             "lobit te veshit"
         ],
-        "correct": 0,
-        "explanation": "Kequshqyerja rrit riskun për ulçera dekubitale për shkak të humbjes së masës muskulare/dhjamore."
+        "correct": 1,
+        "explanation": "Te fëmija i kequshqyer mukozat dëmtohen herët, prandaj shfaqen stomatiti dhe plagët e kavitetit oral për shkak të mungesës së proteinave dhe vitaminave."
     },
     {
         "id": "infermieristik-pediatri-160",
@@ -2025,7 +2025,7 @@
             "parashkollorë"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, bronkopneumonia takohet në të gjitha moshat, jo vetëm te fëmijët parashkollorë."
+        "explanation": "Bronkopneumonia mund të shfaqet në të gjitha moshat, megjithëse është më e shpeshtë te fëmijët e vegjël dhe të moshuarit."
     },
     {
         "id": "infermieristik-pediatri-170",
@@ -2121,7 +2121,7 @@
             "Ajër i pastër"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, nevojat themelore të fëmijës lidhen me jetën e përditshme në përgjithësi."
+        "explanation": "Nevojat themelore të fëmijës përfshijnë të gjitha nevojat e jetës së përditshme: ushqimin, gjumin, higjienën, sigurinë, dashurinë dhe lojën."
     },
     {
         "id": "infermieristik-pediatri-178",

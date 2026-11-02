@@ -57,7 +57,7 @@
             "Kanjula nazale"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, maska Venturi klasifikohet si sistem me ritëm të lartë shpërndarjeje oksigjeni."
+        "explanation": "Maska Venturi është sistem me rrjedhje të lartë: përzien oksigjenin me ajrin në raport të caktuar dhe jep përqindje të saktë e të qëndrueshme oksigjeni, pavarësisht frymëmarrjes së pacientit."
     },
     {
         "id": "infermieristik-semundje-brendshme-006",
@@ -69,7 +69,7 @@
             "Çrregullim të ciklit menstrual"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, shtimi në peshë NUK bën pjesë në shenjat e hipertirozës (i cili tipikisht shkakton rënie peshe)."
+        "explanation": "Hipertiroidizmi shpejton metabolizmin dhe shkakton rënie në peshë, jo shtim; takikardia, reflekset e shpejta dhe çrregullimet menstruale janë tipike."
     },
     {
         "id": "infermieristik-semundje-brendshme-007",
@@ -140,8 +140,8 @@
             "Përmiresimit të ankthit",
             "Terapisë relaksuese"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, edukimi shëndetësor respirator bëhet nëpërmjet terapisë relaksuese."
+        "correct": 1,
+        "explanation": "Edukimi shëndetësor respirator fokusohet te përmirësimi i teknikës/natyrës së frymëmarrjes."
     },
     {
         "id": "infermieristik-semundje-brendshme-013",
@@ -200,8 +200,8 @@
             "me I vogel se 10mm",
             "me diameter 10mm"
         ],
-        "correct": 3,
-        "explanation": "Reaksioni pozitiv i testit të tuberkulinës konsiderohet zakonisht një induracion me diametër ≥10mm."
+        "correct": 1,
+        "explanation": "Testi i tuberkulinës (Mantoux) konsiderohet pozitiv kur induracioni është ≥10 mm te shumica e personave; vlera më të ulëta vlejnë vetëm për grupet me rrezik të lartë."
     },
     {
         "id": "infermieristik-semundje-brendshme-018",
@@ -297,7 +297,7 @@
             "Mungesë e pranisë së djersve"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, te pacientët me anginë/infarkt, prekja e lëkurës së ftohtë vërehet me anë të palpimit."
+        "explanation": "Në anginë dhe infarkt aktivizimi simpatik shkakton vazokonstriksion periferik, prandaj në palpim lëkura ndihet e ftohtë dhe e lagësht."
     },
     {
         "id": "infermieristik-semundje-brendshme-026",
@@ -429,7 +429,7 @@
             "Insufiçensë renale"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, gastriti kronik shoqërohet me inflamacion si karakteristikë kryesore."
+        "explanation": "Gastriti kronik karakterizohet nga inflamacioni kronik i mukozës së stomakut, i cili mund të çojë në atrofi të saj."
     },
     {
         "id": "infermieristik-semundje-brendshme-037",
@@ -464,8 +464,8 @@
             "Proteinuria tregon për dëmtim tëndjeshëm të filtracionit glomerular",
             "Dializa është një ndër opsionet terapeutike"
         ],
-        "correct": 3,
-        "explanation": "Dializa është një nga opsionet terapeutike standarde për insuficiencën renale."
+        "correct": 2,
+        "explanation": "Proteinuria tregon dëmtim të barrierës së filtrimit glomerular, prandaj është tregues i rëndësishëm i dëmtimit renal."
     },
     {
         "id": "infermieristik-semundje-brendshme-040",
@@ -477,7 +477,7 @@
             "Ulçeren peptike"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, helicobacter pilori, duhani dhe stresi lidhen tipikisht me ulçerën peptike."
+        "explanation": "Helicobacter pylori, duhani dhe stresi janë faktorët kryesorë që prishin ekuilibrin mes faktorëve agresivë dhe mbrojtës të mukozës, duke shkaktuar ulçerën peptike."
     },
     {
         "id": "infermieristik-semundje-brendshme-041",
@@ -489,7 +489,7 @@
             "siperfaqesore"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative, triada diskomfort-dhimbje-urth është tipike për ulçerën peptike në përgjithësi."
+        "explanation": "Shqetësimi epigastrik, dhimbja dhe urthi janë triada klasike e ulçerës peptike, që përfshin si ulçerën gastrike ashtu edhe duodenale."
     },
     {
         "id": "infermieristik-semundje-brendshme-042",
@@ -536,8 +536,8 @@
             "Trajtimi kirurgjikal",
             "Hospitalizimi"
         ],
-        "correct": 3,
-        "explanation": "Sipas kësaj alternative, trajtimi i pielonefritit kërkon shpesh hospitalizim."
+        "correct": 1,
+        "explanation": "Pielonefriti trajtohet kryesisht me terapi medikamentoze (antibiotikë)."
     },
     {
         "id": "infermieristik-semundje-brendshme-046",
@@ -548,8 +548,8 @@
             "30-40 vjecare",
             "20-30 vjecare"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, ulçera gastrike ndodh zakonisht në grupmoshën 40-50 vjeç."
+        "correct": 0,
+        "explanation": "Ulçera gastrike ndodh më shpesh te grupmoshat 50-60 vjeçare."
     },
     {
         "id": "infermieristik-semundje-brendshme-047",
@@ -849,7 +849,7 @@
             "Kalcifikime të pankreasit"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, kalcifikimet e pankreasit NUK gjenden tipikisht në pankreatitin akut (më shpesh në atë kronik)."
+        "explanation": "Në pankreatitin akut rriten amilaza dhe lipaza; kalcifikimet e pankreasit janë shenjë e pankreatitit kronik, prandaj nuk gjenden në formën akute."
     },
     {
         "id": "infermieristik-semundje-brendshme-072",
@@ -957,7 +957,7 @@
             "sifilizi"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, sifilizi listohet ndër shkaktarët primarë të mundshëm të glomerulonefritit akut."
+        "explanation": "Sifilizi është ndër infeksionet që mund të shkaktojnë glomerulonefrit akut me depozitim kompleksesh imune, ashtu si infeksionet streptokoksike."
     },
     {
         "id": "infermieristik-semundje-brendshme-081",
@@ -969,7 +969,7 @@
             "Konstipacion"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, azotemia prerenale karakterizohet me ndryshime në sasinë ose pamjen e urinës."
+        "explanation": "Në azoteminë prerenale perfuzioni renal ulet dhe veshka mban natrium e ujë, prandaj shfaqet oliguria me urinë të përqendruar."
     },
     {
         "id": "infermieristik-semundje-brendshme-082",
@@ -1089,7 +1089,7 @@
             "Shmangia e qëndrimit me këmbë të kryqëzuara"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, edukimi për shmangien e infeksioneve të rrugëve të sipërme respiratore konsiderohet aspekti më i rëndësishëm te pacientët me pneumoni."
+        "explanation": "Te pneumonia edukimi kryesor synon parandalimin e infeksioneve të rrugëve të sipërme respiratore, që shpesh i paraprijnë pneumonisë (vaksinimi, shmangia e kontakteve të sëmura, higjiena)."
     },
     {
         "id": "infermieristik-semundje-brendshme-092",
@@ -1292,8 +1292,8 @@
             "Dispnea",
             "Kolla"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, takikardia konsiderohet gjendja më e zakonshme te pacientët me Lupus Sistemik inflamator."
+        "correct": 0,
+        "explanation": "Ethja është shenjë e shpeshtë e gjendjes inflamatore në lupusin sistemik."
     },
     {
         "id": "infermieristik-semundje-brendshme-109",

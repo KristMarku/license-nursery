@@ -45,7 +45,7 @@
             "Infermieri si edukues"
         ],
         "correct": 3,
-        "explanation": "Roli i infermierit si edukues përfaqëson një shembull klasik të zgjerimit dhe zhvillimit të roleve infermierore bashkëkohore."
+        "explanation": "Infermieri si edukues është një nga rolet bazë që zgjerojnë kujdesin infermieror: përmes edukimit shëndetësor kujdesi shtrihet nga pacienti te familja dhe komuniteti. Infermieri anestezist është specializim, jo rol i përgjithshëm i kujdesit."
     },
     {
         "id": "infermieristik-bazat-005",
@@ -537,7 +537,7 @@
             "200-300 ml/urinë"
         ],
         "correct": 3,
-        "explanation": "Nevoja për urinim (dëshira e ndjeshme) shfaqet zakonisht kur në fshikëz grumbullohen rreth 200-300 ml urinë."
+        "explanation": "Dëshira për urinim te i rrituri shfaqet kur në vezikë grumbullohen rreth 200–300 ml urinë; kapaciteti maksimal është rreth 500–600 ml."
     },
     {
         "id": "infermieristik-bazat-046",
@@ -585,7 +585,7 @@
             "20 ml"
         ],
         "correct": 0,
-        "explanation": "Sasia standarde e solucionit për fryrjen e balonit të kateterit Foley është 5 ml (në balonat standarde 5-10ml, mbushen me sasinë minimale të treguar)."
+        "explanation": "Baloni i kateterit Foley standard (sidomos te kateterët e hollë) fryhet me rreth 5 ml ujë steril, sipas vëllimit që shënohet në kateter; nuk përdoret solucion fiziologjik që mund të kristalizohet."
     },
     {
         "id": "infermieristik-bazat-050",
@@ -800,8 +800,8 @@
             "Trajtimin dhe izolimin e sëmundjes",
             "Diagnostikimin e sëmundjes"
         ],
-        "correct": 3,
-        "explanation": "Parandalimi dytësor bazohet në diagnostikimin (zbulimin) e hershëm të sëmundjes."
+        "correct": 2,
+        "explanation": "Parandalimi dytësor synon zbulimin e hershëm dhe ndërhyrjen e menjëhershme: trajtimi i shpejtë dhe izolimi i sëmundjes kufizojnë përparimin e saj dhe përhapjen te të tjerët."
     },
     {
         "id": "infermieristik-bazat-068",
@@ -885,7 +885,7 @@
             "Fowler"
         ],
         "correct": 1,
-        "explanation": "Pas administrimit nazogastrik, pacienti pozicionohet shtrirë nga e djathta, pasi kjo lehtëson zbrazjen gastrike dhe zvogëlon riskun e refluksit."
+        "explanation": "Pas dhënies së medikamenteve me tub nazogastrik pacienti vendoset shtrirë në anën e djathtë, sepse pilori ndodhet djathtas dhe ky pozicion ndihmon zbrazjen gastrike dhe ul rrezikun e refluksit e aspirimit."
     },
     {
         "id": "infermieristik-bazat-075",
@@ -1101,7 +1101,7 @@
             "Temporale"
         ],
         "correct": 3,
-        "explanation": "Matja temporale (me sensor infra të kresë) konsiderohet më pak e saktë krahasuar me metodat e tjera standarde të matjes së temperaturës."
+        "explanation": "Matja temporale (në lëkurën e ballit) ndikohet nga djersitja, temperatura e ambientit dhe teknika, prandaj jep vlerat më pak të sakta."
     },
     {
         "id": "infermieristik-bazat-093",
@@ -1245,7 +1245,7 @@
             "Asnjëra"
         ],
         "correct": 0,
-        "explanation": "Safka Kushi njihet si figura themeluese e infermieristikës moderne shqiptare."
+        "explanation": "Safka Kushi njihet si infermierja e parë shqiptare dhe themeluesja e infermieristikës në Shqipëri; ajo organizoi shkollën dhe shërbimin e parë infermieror shqiptar."
     },
     {
         "id": "infermieristik-bazat-105",
@@ -1292,8 +1292,8 @@
             "Lidershipi drejtues dhe pjesmarrës",
             "Asnjërën"
         ],
-        "correct": 2,
-        "explanation": "Lidershipi që përfshin ndjekësit në vendimmarrje e diskutime të lira klasifikohet si lidership drejtues dhe pjesëmarrës njëkohësisht, sipas kësaj kategorizimi specifik."
+        "correct": 1,
+        "explanation": "Lidershipi demokratik/pjesëmarrës përfshin ndjekësit në vendimmarrje dhe diskutime."
     },
     {
         "id": "infermieristik-bazat-109",
@@ -1389,7 +1389,7 @@
             "Mesatare"
         ],
         "correct": 0,
-        "explanation": "Në një analizë urine normale, qelizat epiteliale zakonisht raportohen si 'negative'/mungojnë në sasi domethënëse."
+        "explanation": "Në urinën normale qelizat epiteliale janë të pakta deri negative në ekzaminim; prania e tyre në numër të konsiderueshëm tregon kontaminim ose dëmtim të rrugëve urinare."
     },
     {
         "id": "infermieristik-bazat-117",

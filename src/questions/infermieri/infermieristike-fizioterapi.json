@@ -20,8 +20,8 @@
             "Ekstrarotacion dhe aduksion i artikulacionit koksofemoral",
             "Fleksion dhe intrarotacioni artikulacionit koksofemoral"
         ],
-        "correct": 2,
-        "explanation": "Pas endoprotezës koksofemorale, kombinimi ekstrarotacion+aduksion konsiderohet pozicioni i kundërindikuar sipas kësaj alternative."
+        "correct": 3,
+        "explanation": "Pas endoprotezës koksofemorale, kombinimi fleksion+intrarotacion është i kundërindikuar (rrezik dislokimi)."
     },
     {
         "id": "infermieristik-fizioterapi-003",
@@ -164,8 +164,8 @@
             "ujë të ftohtë",
             "hidromasazh"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, para seancës së rehabilitimit në hemiplegji rekomandohet banjë me ujë të ftohtë."
+        "correct": 0,
+        "explanation": "Rekomandohet banjë me ujë të ngrohtë përpara seancës së rehabilitimit në hemiplegji."
     },
     {
         "id": "infermieristik-fizioterapi-015",
@@ -297,7 +297,7 @@
             "Për të parandaluar plagët e shtratit"
         ],
         "correct": 3,
-        "explanation": "Ushtrimet pasive tek pacientët e shtratshtruar synojnë ndër të tjera parandalimin e plagëve të shtratit (dekubituseve)."
+        "explanation": "Ushtrimet pasive te pacientët e shtruar përmirësojnë qarkullimin dhe ndryshojnë presionin mbi lëkurë, duke parandaluar plagët e shtratit, kontrakturat dhe trombozat."
     },
     {
         "id": "infermieristik-fizioterapi-026",
@@ -357,7 +357,7 @@
             "asnjë nga alternativat"
         ],
         "correct": 0,
-        "explanation": "Sipas kësaj alternative, zonat më të rrezikuara për dekubitus përfshijnë occipitum, sacrum dhe spina scapulae."
+        "explanation": "Te pacienti i shtrirë në shpinë zonat më të rrezikuara janë pikat kockore me presion të madh: oksiputi, sakrumi dhe spina e skapulës (si edhe thembrat)."
     },
     {
         "id": "infermieristik-fizioterapi-031",
@@ -369,7 +369,7 @@
             "me lëvizje gjatesore të kokës"
         ],
         "correct": 1,
-        "explanation": "Sipas kësaj alternative specifike, lëvizja rrotulluese e kokës konsiderohet modaliteti më i përdorur i ultratingujve."
+        "explanation": "Ultratingujt aplikohen duke lëvizur kokën e aparatit me lëvizje rrotulluese, që energjia të shpërndahet njëtrajtësisht dhe të shmangen djegiet lokale."
     },
     {
         "id": "infermieristik-fizioterapi-032",
@@ -417,7 +417,7 @@
             "ultratingujt,TENS,lazer"
         ],
         "correct": 3,
-        "explanation": "Për dhimbjen temporo-mandibulare, kombinimi ultratinguj-TENS-lazer është alternativa e pritur këtu."
+        "explanation": "Në dhimbjen e artikulacionit temporomandibular përdoren ultratingujt, TENS dhe lazeri, që kanë efekt analgjezik dhe antiinflamator lokal."
     },
     {
         "id": "infermieristik-fizioterapi-036",
@@ -441,7 +441,7 @@
             "të kombinuara"
         ],
         "correct": 2,
-        "explanation": "Sipas kësaj alternative, rrymat diadinamike përshkruhen si sinusoidale me frekuencë të ulët."
+        "explanation": "Rrymat diadinamike (Bernard) janë rryma sinusoidale me frekuencë të ulët (50–100 Hz), me efekt analgjezik dhe vazomotor."
     },
     {
         "id": "infermieristik-fizioterapi-038",

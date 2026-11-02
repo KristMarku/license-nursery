@@ -20,8 +20,8 @@
             "Hipersensibilizimit citotoksik",
             "Sëmundjes së serumit"
         ],
-        "correct": 2,
-        "explanation": "Ky rast klinik pas thumbimeve të përsëritura nga grerëza mund të klasifikohet edhe si hipersensibilizim citotoksik sipas kësaj alternative."
+        "correct": 1,
+        "explanation": "Ky kuadër klinik akut karakterizon anafilaksinë sistemike."
     },
     {
         "id": "infermieristik-laborator-imunologji-003",
@@ -32,8 +32,8 @@
             "Ethet e barit",
             "Dermatiti i Kontaktit"
         ],
-        "correct": 1,
-        "explanation": "Sindroma Goodpasture konsiderohet përjashtimi i saktë (jo sëmundje hipersensitiviteti klasike) sipas kësaj alternative."
+        "correct": 0,
+        "explanation": "Angioedema e trashëguar është defiçit i komplementit, jo sëmundje klasike hipersensitiviteti."
     },
     {
         "id": "infermieristik-laborator-imunologji-004",
@@ -44,8 +44,8 @@
             "Mund tëkalojne placentën",
             "Janë me të zakonshme ne meshkuj"
         ],
-        "correct": 2,
-        "explanation": "Antitrupat IgG, përfshirë autoantitrupat, mund të kalojnë placentën."
+        "correct": 3,
+        "explanation": "Antitrupat IgG kundër proteinave të veta (autoantitrupat) janë më të zakonshëm te femrat, jo te meshkujt, prandaj pohimi D është i gabuar."
     },
     {
         "id": "infermieristik-laborator-imunologji-005",
@@ -56,8 +56,8 @@
             "Diabeti i Sheqerit I-re",
             "Tetanozi"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, astma bronkiale klasifikohet këtu si shembulli i sëmundjes autoimune."
+        "correct": 2,
+        "explanation": "Diabeti i tipit I është sëmundje autoimune."
     },
     {
         "id": "infermieristik-laborator-imunologji-006",
@@ -165,7 +165,7 @@
             "Asnjëra nga të sipër për mendurat"
         ],
         "correct": 1,
-        "explanation": "Neutrofili konfirmohet si qeliza 'mikrofag' klasik në literaturën imunologjike (fagocit i vogël, në krahasim me makrofagun)."
+        "explanation": "Neutrofili konsiderohet 'mikrofag' (fagocit i vogël)."
     },
     {
         "id": "infermieristik-laborator-imunologji-015",
@@ -176,8 +176,8 @@
             "Rruga e lectines",
             "Rruga klasike"
         ],
-        "correct": 2,
-        "explanation": "Rruga e lektines nuk lidhet me aktivizimin klasik të komplementit në kontekstin e kësaj pyetjeje specifike."
+        "correct": 1,
+        "explanation": "Cikli i Krebsit është proces metabolik, jo rrugë e aktivizimit të komplementit."
     },
     {
         "id": "infermieristik-laborator-imunologji-016",
@@ -188,8 +188,8 @@
             "Hapteni është nje substance qe nuk është imunogjenike por qe Mund tëreagoje me produktet e përgjigjes imune specifike",
             "Epitopi është pjesa e antitrupit qe lidhet me antigjenin"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, pohimi i gabuar është përkufizimi i haptenit si substancë jo-imunogjenike që mund të reagojë me produktet e përgjigjes imune."
+        "correct": 3,
+        "explanation": "Epitopi është pjesa e ANTIGJENIT që njihet nga antitrupi, jo pjesë e antitrupit."
     },
     {
         "id": "infermieristik-laborator-imunologji-017",
@@ -201,7 +201,7 @@
             "Asnjëra nga shprehjet e mesipër me nuk është e vertetë"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, asnjë nga pohimet e mësipërme nuk konsiderohet plotësisht i vërtetë."
+        "explanation": "Asnjë nga pohimet nuk është plotësisht i vërtetë: jo çdo antigjen është alergjen, alergjenet janë antigjene të zakonshme që te personat e ndjeshëm shkaktojnë reaksion dhe nuk janë tolerogjene."
     },
     {
         "id": "infermieristik-laborator-imunologji-018",
@@ -224,8 +224,8 @@
             "Aktivizon komplementin",
             "Ka rol opsonizues"
         ],
-        "correct": 3,
-        "explanation": "IgG ka rol opsonizues të vërtetuar, ndryshe nga pohimi tjetër i gabuar për depërtimin e vështirë në inde."
+        "correct": 1,
+        "explanation": "IgG depërton me lehtësi (jo vështirësi) në inde, falë madhësisë së saj të vogël."
     },
     {
         "id": "infermieristik-laborator-imunologji-020",
@@ -261,7 +261,7 @@
             "Imunofluorescence"
         ],
         "correct": 3,
-        "explanation": "Sipas kësaj alternative, ky proces identifikimi quhet imunofluoreshencë."
+        "explanation": "Imunofluoreshenca identifikon proteinat me antitrupa të shënuar me fluorokrom; kur kombinohet me ndarjen elektroforetike ajo jep identifikim specifik."
     },
     {
         "id": "infermieristik-laborator-imunologji-023",
@@ -272,8 +272,8 @@
             "Test serologjik i bazuar ne shterimin e nje sasie të caktuar të komplementit ne prani të nje reaksioni antigjen-antikorp",
             "Test serologjik qe përdorantikorpe të shenuar me ngjyra floreshente"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, aglutinimi lidhet me testin serologjik të bazuar në shterimin e komplementit në praninë e reaksionit antigjen-antikorp."
+        "correct": 1,
+        "explanation": "Aglutinimi është ndërveprimi i antigjeneve të pjesëzuara me antitrupa (kryesisht IgM)."
     },
     {
         "id": "infermieristik-laborator-imunologji-024",
@@ -560,8 +560,8 @@
             "Digjestion",
             "Opsonizacion"
         ],
-        "correct": 0,
-        "explanation": "Sipas kësaj alternative, procesi i tërheqjes së fagociteve drejt mikroorganizmave quhet adherencë."
+        "correct": 1,
+        "explanation": "Tërheqja e fagociteve drejt mikroorganizmave quhet kemotaksis."
     },
     {
         "id": "infermieristik-laborator-imunologji-048",
@@ -572,8 +572,8 @@
             "Digjestion",
             "Opsonization"
         ],
-        "correct": 2,
-        "explanation": "Sipas kësaj alternative, procesi i atashimit të fagociteve te mikroorganizmat quhet digjestion."
+        "correct": 0,
+        "explanation": "Ngjitja e fagociteve te mikroorganizmat quhet adherencë."
     },
     {
         "id": "infermieristik-laborator-imunologji-049",
@@ -740,8 +740,8 @@
             "1 jave",
             "3 jave"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, përgjigja imune primare arrin nivele të zbulueshme antikorpale brenda rreth 3 ditësh."
+        "correct": 2,
+        "explanation": "Përgjigja imune primare kërkon rreth 1 javë për të prodhuar nivele antitrupash të zbulueshme."
     },
     {
         "id": "infermieristik-laborator-imunologji-063",
@@ -752,8 +752,8 @@
             "Të prodhojë T-supresore",
             "Të prodhojë makrofage"
         ],
-        "correct": 1,
-        "explanation": "Sipas kësaj alternative, qeliza B e aktivizuar mund të prodhojë direkt imunoglobulina."
+        "correct": 0,
+        "explanation": "Qeliza B e aktivizuar prodhon klone plazmocitesh."
     },
     {
         "id": "infermieristik-laborator-imunologji-064",
@@ -789,7 +789,7 @@
             "Invazion"
         ],
         "correct": 0,
-        "explanation": "Aftësia e patogjenit për të shkaktuar sëmundje duke kaluar mbrojtjet e mbartësit quhet patogjenicitet sipas kësaj alternative."
+        "explanation": "Patogjeniteti është aftësia e mikroorganizmit për të shkaktuar sëmundje duke kapërcyer mbrojtjet e bujtësit; virulenca është shkalla e kësaj aftësie."
     },
     {
         "id": "infermieristik-laborator-imunologji-067",
